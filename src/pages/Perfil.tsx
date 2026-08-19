@@ -35,7 +35,9 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
                 <article key={p.id} className="p-3 border rounded bg-white dark:bg-slate-900">
                   <h4 className="font-medium">{tema?.nome}</h4>
                   <p className="text-sm text-slate-700 dark:text-slate-300">{p.resumo}</p>
-                  <p className="text-xs text-slate-500 mt-1">Fonte: página {p.paginaFontePdf}</p>
+                  <br />
+                  <p className="text-sm text-slate-700 dark:text-slate-300"><i>"{p.compromissoCitado}"</i></p>
+                  <p className="text-xs text-slate-500 mt-1">Página {p.paginaFontePdf} do plano de governo</p>
                 </article>
               )
             })}

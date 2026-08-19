@@ -35,11 +35,7 @@ export default function Header(): JSX.Element{
           <NavLink to="/comparativo" className={({isActive})=>navLinkClass(isActive)}>Comparativo</NavLink>
         </nav>
 
-        <div className="flex items-center gap-3">
-          <div className="hidden sm:flex items-center border rounded px-2 py-1 gap-2 bg-slate-50 dark:bg-slate-800">
-            <Search size={16} className="text-slate-500"/>
-            <input placeholder="Pesquisar" className="bg-transparent outline-none text-sm w-40 text-slate-800 dark:text-slate-100"/>
-          </div>
+        <div className="flex items-center gap-3">          
           <button onClick={()=>setDark(d=>!d)} aria-label="Toggle theme" className="p-2 rounded border dark:border-slate-700 bg-accent-600 text-white hover:bg-accent-500">
             {dark ? <Sun size={16} /> : <Moon size={16} />}
           </button>
