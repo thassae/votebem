@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { BrowserRouter, Routes, Route, Navigate, useParams } from 'react-router-dom'
 import Header from './components/Header'
+import Footer from './components/Footer'
 import Comparativo from './components/Comparativo'
 import Home from './components/Home'
 import Perfil from './pages/Perfil'
@@ -27,17 +28,20 @@ export default function App(){
 
   return (
     <BrowserRouter>
-      <div className="container">
+      <div className="container flex min-h-screen flex-col">
         <Header />
-        {loading && <p>Carregando dados…</p>}
-        {error && <p className="text-red-600">Erro: {error}</p>}
-        {!loading && !error && (
-          <Routes>
-            <Route path="/" element={<Home chapas={chapas} perfis={perfis} />} />
-            <Route path="/comparativo" element={<Comparativo temas={temas} chapas={chapas} propostas={propostas} />} />
-            <Route path="/chapa/:id" element={<PerfilWrapper chapas={chapas} perfis={perfis} temas={temas} propostas={propostas} />} />
-          </Routes>
-        )}
+        <div className="flex-1">
+          {loading && <p>Carregando dados…</p>}
+          {error && <p className="text-red-600">Erro: {error}</p>}
+          {!loading && !error && (
+            <Routes>
+              <Route path="/" element={<Home chapas={chapas} perfis={perfis} />} />
+              <Route path="/comparativo" element={<Comparativo temas={temas} chapas={chapas} propostas={propostas} />} />
+              <Route path="/chapa/:id" element={<PerfilWrapper chapas={chapas} perfis={perfis} temas={temas} propostas={propostas} />} />
+            </Routes>
+          )}
+        </div>
+        <Footer />
       </div>
     </BrowserRouter>
   )
