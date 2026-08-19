@@ -10,7 +10,7 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="md:col-span-1 flex flex-row gap-2">
             <img src={presidente?.fotoUrl} alt={presidente?.nomeCompleto} className="w-180 h-auto rounded" />
-            <img src={vice?.fotoUrl} alt={vice?.nomeCompleto} className="w-180 h-auto rounded" />
+            <img src={vice?.fotoUrl} alt={vice?.nomeCompleto} className="w-120 h-auto rounded" />
           </div>
           <div className="md:col-span-2">
             <h3 className="font-medium text-lg">{presidente?.nomeCompleto} — Presidente</h3>

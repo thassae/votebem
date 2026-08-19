@@ -16,8 +16,7 @@ export default function Home({chapas, perfis}:{chapas: Chapa[]; perfis: Perfil[]
             </p>
             <p className="text-sm text-slate-600 dark:text-slate-300"><strong>COLIGAÇÃO:</strong> {c.coligacao.join(', ')}</p>
             <div className="mt-3 flex gap-2">
-              <Link to={`/chapa/${c.id}`} className="text-sm px-3 py-1 bg-accent-600 text-white rounded dark:bg-accent-500">Ver perfil</Link>
-              <Link to={`/comparativo`} className="text-sm px-3 py-1 border rounded dark:border-slate-700">Ver propostas</Link>
+              <Link to={`/chapa/${c.id}`} className="text-sm px-3 py-1 bg-accent-600 text-white rounded dark:bg-accent-500">Ver propostas</Link>              
             </div>
           </div>
         ))}

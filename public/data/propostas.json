@@ -1,18 +1,2770 @@
 [
   {
-    "id": "chapa-27-seguranca-publica",
-    "chapaId": "chapa-27",
+    "id": "chapa-80-agricultura-e-ruralismo",
+    "chapaId": "chapa-80",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Executar reforma agrária popular, apoiar a agricultura familiar e priorizar a soberania alimentar.",
+    "compromissoCitado": "Executar um amplo programa nacional de reforma agrária, destinando terras improdutivas que não cumpram a função social para assentamentos.",
+    "paginaFontePdf": 44
+  },
+  {
+    "id": "chapa-80-assistencia-social",
+    "chapaId": "chapa-80",
+    "temaId": "assistencia-social",
+    "resumo": "Reajustar benefícios de assistência social e ampliar a proteção social para pessoas com deficiência.",
+    "compromissoCitado": "Fim do Arcabouço Fiscal garantindo o reajuste nos benefícios de aposentadoria e assistência social.",
+    "paginaFontePdf": 9
+  },
+  {
+    "id": "chapa-80-corrupcao",
+    "chapaId": "chapa-80",
+    "temaId": "corrupcao",
+    "resumo": "Responsabilizar corruptos e corruptores, confiscar bens provenientes de crimes e ampliar o controle popular do orçamento.",
+    "compromissoCitado": "Julgamento, prisão e confisco dos bens de todos os corruptos.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-80-criancas-e-adolescentes",
+    "chapaId": "chapa-80",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Proibir o trabalho infantil e ampliar creches e serviços públicos voltados às crianças.",
+    "compromissoCitado": "Proibição da exploração do trabalho infantil.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-80-cultura",
+    "chapaId": "chapa-80",
+    "temaId": "cultura",
+    "resumo": "Ampliar o investimento público em cultura, fortalecer equipamentos culturais e financiar a produção popular brasileira.",
+    "compromissoCitado": "Ampliar radicalmente o investimento público em cultura, garantindo equipamentos culturais gratuitos nas periferias, cidades do interior e zonas rurais.",
+    "paginaFontePdf": 40
+  },
+  {
+    "id": "chapa-80-desenvolvimento-regional",
+    "chapaId": "chapa-80",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Reduzir desigualdades regionais por meio de planejamento econômico, infraestrutura, moradia e serviços públicos no interior e nas periferias.",
+    "compromissoCitado": "Planificação da economia para atender às necessidades da população e acabar com as desigualdades regionais e sociais.",
+    "paginaFontePdf": 56
+  },
+  {
+    "id": "chapa-80-economia-e-sistema-financeiro",
+    "chapaId": "chapa-80",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Suspender o pagamento de juros da dívida, auditar a dívida pública, promover tributação progressiva e nacionalizar o sistema bancário.",
+    "compromissoCitado": "Suspensão imediata do pagamento e auditoria cidadã da dívida pública.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-80-educacao",
+    "chapaId": "chapa-80",
+    "temaId": "educacao",
+    "resumo": "Garantir educação pública e gratuita em todos os níveis, recompor orçamentos e ampliar assistência e pesquisa.",
+    "compromissoCitado": "Destinação de pelo menos 10% do PIB nacional para a educação pública, desde a educação infantil até a pós-graduação.",
+    "paginaFontePdf": 22
+  },
+  {
+    "id": "chapa-80-energia",
+    "chapaId": "chapa-80",
+    "temaId": "energia",
+    "resumo": "Reestatizar empresas estratégicas de energia e realizar transição energética com controle público e proteção ambiental.",
+    "compromissoCitado": "Monopólio público em áreas estratégicas como geração de energia, mineração, produção e distribuição de combustíveis.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-80-esporte",
+    "chapaId": "chapa-80",
+    "temaId": "esporte",
+    "resumo": "Criar um sistema público de esporte e lazer, ampliar equipamentos esportivos e garantir esporte nas escolas.",
+    "compromissoCitado": "Criar um Sistema Nacional Público de Esporte e Lazer, para massificar o esporte nos bairros populares.",
+    "paginaFontePdf": 42
+  },
+  {
+    "id": "chapa-80-gestao-publica-e-fiscal",
+    "chapaId": "chapa-80",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Revogar o Arcabouço Fiscal, reduzir privilégios no setor público e submeter orçamento e estatais ao controle popular.",
+    "compromissoCitado": "Revogar as reformas trabalhista e previdenciária, a terceirização irrestrita e o Arcabouço Fiscal.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-80-idosos",
+    "chapaId": "chapa-80",
+    "temaId": "idosos",
+    "resumo": "Priorizar idosos em programas de moradia e ampliar serviços públicos de cuidado e convivência.",
+    "compromissoCitado": "Ampliar massivamente a produção pública e social de moradias, priorizando famílias de baixa renda, mulheres chefes de família, pessoas com deficiência, idosos e população em situação de rua.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-80-industria-e-comercio",
+    "chapaId": "chapa-80",
+    "temaId": "industria-e-comercio",
+    "resumo": "Reindustrializar o país, estatizar setores estratégicos e direcionar a política industrial às necessidades sociais.",
+    "compromissoCitado": "Política Industrial Ativa e Direcionada a Setores Estratégicos.",
+    "paginaFontePdf": 56
+  },
+  {
+    "id": "chapa-80-infraestrutura",
+    "chapaId": "chapa-80",
+    "temaId": "infraestrutura",
+    "resumo": "Executar um plano nacional de obras de infraestrutura, moradia, saneamento, creches e postos de saúde.",
+    "compromissoCitado": "A execução de um plano nacional de obras de infraestrutura, moradia, saneamento básico, creches e postos de saúde nos bairros periféricos e interior do país.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-80-lgbtqia",
+    "chapaId": "chapa-80",
+    "temaId": "lgbtqia",
+    "resumo": "Combater a LGBTfobia e ampliar serviços de saúde, assistência, seguridade e acolhimento para a população LGBTIA+.",
+    "compromissoCitado": "Firme combate a todas as manifestações LGBTfóbicas.",
+    "paginaFontePdf": 33
+  },
+  {
+    "id": "chapa-80-meio-ambiente",
+    "chapaId": "chapa-80",
+    "temaId": "meio-ambiente",
+    "resumo": "Proteger os biomas, combater desmatamento e crimes ambientais e promover transição energética e agroecológica.",
+    "compromissoCitado": "Proteger Amazônia, Cerrado, Caatinga, Mata Atlântica, Pantanal e Pampa, reconhecendo que cada bioma exige políticas próprias.",
+    "paginaFontePdf": 63
+  },
+  {
+    "id": "chapa-80-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-80",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Democratizar os meios de comunicação, apoiar a imprensa comunitária e combater monopólios e censura corporativa.",
+    "compromissoCitado": "Democratização dos meios de comunicação, com a socialização de todos os grandes canais de televisão, jornais, rádios e sites.",
+    "paginaFontePdf": 37
+  },
+  {
+    "id": "chapa-80-mineracao-e-garimpo",
+    "chapaId": "chapa-80",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Submeter a mineração ao interesse público, combater garimpo ilegal e garantir controle público dos recursos minerais.",
+    "compromissoCitado": "Combater desmatamento ilegal, garimpo, grilagem, contaminação por mercúrio e crimes ambientais de grandes empresas.",
+    "paginaFontePdf": 63
+  },
+  {
+    "id": "chapa-80-mobilidade-urbana",
+    "chapaId": "chapa-80",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Estatizar o transporte coletivo, avançar para tarifa zero e investir em ferrovias, metrôs e VLTs.",
+    "compromissoCitado": "Estatização das empresas de transporte coletivo: fim das concessões e dos cartéis privados de ônibus.",
+    "paginaFontePdf": 52
+  },
+  {
+    "id": "chapa-80-mulheres",
+    "chapaId": "chapa-80",
+    "temaId": "mulheres",
+    "resumo": "Combater a violência machista, garantir igualdade salarial, autonomia econômica e uma rede pública de cuidados.",
+    "compromissoCitado": "Igualdade e autonomia para as mulheres. Combate ao machismo e à violência de gênero.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-80-pacto-federativo",
+    "chapaId": "chapa-80",
+    "temaId": "pacto-federativo",
+    "resumo": "Integrar União, estados e municípios em políticas nacionais de enfrentamento à violência contra as mulheres.",
+    "compromissoCitado": "Integrar União, estados e municípios em protocolos nacionais de enfrentamento à violência.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-80-pessoas-com-deficiencia",
+    "chapaId": "chapa-80",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Garantir acessibilidade universal, educação inclusiva, inclusão profissional e atendimento integral pelo SUS.",
+    "compromissoCitado": "Programa Nacional de Acessibilidade Universal, com as frentes emergenciais de trabalho, para eliminar barreiras arquitetônicas.",
+    "paginaFontePdf": 34
+  },
+  {
+    "id": "chapa-80-politicas-raciais",
+    "chapaId": "chapa-80",
+    "temaId": "politicas-raciais",
+    "resumo": "Combater o racismo estrutural, ampliar reparação histórica, cotas e proteção às comunidades quilombolas.",
+    "compromissoCitado": "Ampliar vagas nos setores públicos reservadas para a população negra.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-80-previdencia",
+    "chapaId": "chapa-80",
+    "temaId": "previdencia",
+    "resumo": "Revogar a reforma previdenciária e garantir reajuste e recomposição dos benefícios de aposentadoria.",
+    "compromissoCitado": "Revogar as reformas trabalhista e previdenciária.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-80-relacao-entre-os-poderes",
+    "chapaId": "chapa-80",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Ampliar a democracia direta e participativa e submeter a estrutura do Estado ao controle popular.",
+    "compromissoCitado": "Construir mecanismos efetivos de democracia direta e participativa: Conselhos Populares para as áreas de Estado, com poder orçamentário.",
+    "paginaFontePdf": 37
+  },
+  {
+    "id": "chapa-80-relacoes-internacionais",
+    "chapaId": "chapa-80",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar política externa anti-imperialista, defender a autodeterminação dos povos e romper tratados de submissão.",
+    "compromissoCitado": "Política Externa Anti-Imperialista: rompimento de tratados de submissão militar e econômica aos Estados Unidos, OTAN ou China.",
+    "paginaFontePdf": 65
+  },
+  {
+    "id": "chapa-80-reforma-institucional",
+    "chapaId": "chapa-80",
+    "temaId": "reforma-institucional",
+    "resumo": "Democratizar a estrutura do Estado e o sistema de Justiça, incluindo eleição direta para juízes e tribunais superiores.",
+    "compromissoCitado": "Eleição direta para Juízes e Tribunais Superiores.",
+    "paginaFontePdf": 49
+  },
+  {
+    "id": "chapa-80-soberania",
+    "chapaId": "chapa-80",
+    "temaId": "soberania",
+    "resumo": "Reestatizar empresas estratégicas, controlar setores essenciais e romper a dependência econômica estrangeira.",
+    "compromissoCitado": "Reestatização das empresas estratégicas: estatização imediata da Eletrobras, da Petrobrás, da Vale, das malhas ferroviárias, das companhias de saneamento e de telecomunicações.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-80-saude-publica",
+    "chapaId": "chapa-80",
+    "temaId": "saude-publica",
+    "resumo": "Fortalecer e unificar um SUS 100% estatal, com produção nacional de medicamentos e valorização dos trabalhadores da saúde.",
+    "compromissoCitado": "Fortalecimento e Unificação do SUS 100% Estatal.",
+    "paginaFontePdf": 20
+  },
+  {
+    "id": "chapa-80-seguranca-juridica",
+    "chapaId": "chapa-80",
+    "temaId": "seguranca-juridica",
+    "resumo": "Democratizar o acesso à Justiça, fortalecer a Justiça do Trabalho e combater o encarceramento em massa e abusos da prisão provisória.",
+    "compromissoCitado": "Valorização dos servidores do judiciário e garantia de livre acesso do povo à justiça.",
+    "paginaFontePdf": 49
+  },
+  {
+    "id": "chapa-80-seguranca-publica",
+    "chapaId": "chapa-80",
     "temaId": "seguranca-publica",
-    "resumo": "Reforço do efetivo policial e integração entre forças para redução da criminalidade.",
-    "compromissoCitado": "Aumentar o efetivo em 20% nos primeiros 2 anos.",
+    "resumo": "Desmilitarizar as polícias, substituir a lógica de guerra por prevenção e articular segurança com políticas sociais.",
+    "compromissoCitado": "Desmilitarização das Polícias: unificação das polícias sob uma estrutura civil, preventiva, comunitária e humanizada.",
+    "paginaFontePdf": 48
+  },
+  {
+    "id": "chapa-80-tecnologia",
+    "chapaId": "chapa-80",
+    "temaId": "tecnologia",
+    "resumo": "Investir em ciência, tecnologia e inovação para fortalecer a soberania econômica e ampliar a participação popular na pesquisa.",
+    "compromissoCitado": "Investir em ciência e tecnologia com vistas a fortalecer a soberania econômica.",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-80-trabalho-e-emprego",
+    "chapaId": "chapa-80",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Aumentar o salário mínimo, reduzir a jornada sem redução salarial, criar empregos públicos e regulamentar o trabalho em plataformas.",
+    "compromissoCitado": "Fim da escala 6x1 e redução da jornada para 30 horas semanais, sem redução salarial.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-30-agricultura-e-ruralismo",
+    "chapaId": "chapa-30",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Facilitar a produção agropecuária, ampliar tecnologia e assistência técnica, melhorar a logística e proteger a propriedade rural.",
+    "compromissoCitado": "Ampliar o acesso dos produtores rurais a tecnologia e assistência técnica.",
+    "paginaFontePdf": 44
+  },
+  {
+    "id": "chapa-30-assistencia-social",
+    "chapaId": "chapa-30",
+    "temaId": "assistencia-social",
+    "resumo": "Unificar e focalizar programas sociais, modernizar o CadÚnico e criar uma porta de saída pela capacitação e pelo trabalho.",
+    "compromissoCitado": "Criar o programa Casas da Cidadania.",
+    "paginaFontePdf": 63
+  },
+  {
+    "id": "chapa-30-corrupcao",
+    "chapaId": "chapa-30",
+    "temaId": "corrupcao",
+    "resumo": "Limitar o foro privilegiado, endurecer penas por corrupção, investigar enriquecimento incompatível e eliminar privilégios.",
+    "compromissoCitado": "Endurecer a pena do crime de corrupção e autorizar a progressão de regime somente após a devolução do dinheiro desviado.",
+    "paginaFontePdf": 8
+  },
+  {
+    "id": "chapa-30-criancas-e-adolescentes",
+    "chapaId": "chapa-30",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Ampliar creches, fortalecer a proteção ao desenvolvimento infantil e reduzir a maioridade penal para 16 anos ou menos.",
+    "compromissoCitado": "Ampliar a oferta de vagas em creches e pré-escolas com foco em qualidade e acesso.",
+    "paginaFontePdf": 50
+  },
+  {
+    "id": "chapa-30-cultura",
+    "chapaId": "chapa-30",
+    "temaId": "cultura",
+    "resumo": "Focar o financiamento em artistas locais e produções regionais, proteger o patrimônio e profissionalizar a gestão cultural.",
+    "compromissoCitado": "Focar o dinheiro da cultura nos artistas locais e produções regionais.",
+    "paginaFontePdf": 69
+  },
+  {
+    "id": "chapa-30-desenvolvimento-regional",
+    "chapaId": "chapa-30",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Usar cultura, turismo, infraestrutura e autonomia federativa para promover desenvolvimento regional e reduzir desigualdades.",
+    "compromissoCitado": "Tratar o turismo como vetor de desenvolvimento econômico regional.",
+    "paginaFontePdf": 71
+  },
+  {
+    "id": "chapa-30-economia-e-sistema-financeiro",
+    "chapaId": "chapa-30",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Reduzir juros e impostos, ampliar a concorrência bancária, facilitar a renegociação de dívidas e simplificar a tributação empresarial.",
+    "compromissoCitado": "Facilitar a renegociação e a portabilidade de dívidas, gerando novas oportunidades de refinanciamento.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-30-educacao",
+    "chapaId": "chapa-30",
+    "temaId": "educacao",
+    "resumo": "Ampliar creches, recuperar a alfabetização, fortalecer o ensino integral, valorizar professores e expandir a educação profissional.",
+    "compromissoCitado": "Recuperar a alfabetização e recompor aprendizagem de estudantes com defasagem.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-30-empreendedorismo",
+    "chapaId": "chapa-30",
+    "temaId": "empreendedorismo",
+    "resumo": "Simplificar a abertura, operação e fechamento de empresas, reduzir impostos e remover barreiras regulatórias ao empreendedorismo.",
+    "compromissoCitado": "Facilitar a abertura, operação e o fechamento de empresas.",
+    "paginaFontePdf": 19
+  },
+  {
+    "id": "chapa-30-energia",
+    "chapaId": "chapa-30",
+    "temaId": "energia",
+    "resumo": "Reduzir a conta de luz, abrir o petróleo e gás à concorrência e transformar energia limpa em investimentos e empregos.",
+    "compromissoCitado": "Abrir o setor de petróleo à concorrência.",
+    "paginaFontePdf": 33
+  },
+  {
+    "id": "chapa-30-esporte",
+    "chapaId": "chapa-30",
+    "temaId": "esporte",
+    "resumo": "Profissionalizar a gestão esportiva, atrair investimentos privados e conectar esporte às políticas de saúde e educação.",
+    "compromissoCitado": "Conectar o esporte às políticas de saúde para prevenir doenças e assegurar qualidade de vida.",
+    "paginaFontePdf": 68
+  },
+  {
+    "id": "chapa-30-estado-digital",
+    "chapaId": "chapa-30",
+    "temaId": "estado-digital",
+    "resumo": "Digitalizar serviços públicos, garantir transparência ativa e integrar sistemas de estados e municípios.",
+    "compromissoCitado": "Melhorar a prestação de serviços públicos por meios digitais.",
+    "paginaFontePdf": 41
+  },
+  {
+    "id": "chapa-30-gestao-publica-e-fiscal",
+    "chapaId": "chapa-30",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Implantar gestão por resultados, profissionalizar o serviço público, reduzir a máquina e reformar a administração.",
+    "compromissoCitado": "Medir a eficiência do governo pela qualidade da entrega ao cidadão.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-30-idosos",
+    "chapaId": "chapa-30",
+    "temaId": "idosos",
+    "resumo": "Garantir qualidade nos serviços de cuidado e apoiar políticas de saúde, atividade física e socialização para idosos.",
+    "compromissoCitado": "Garantir a qualidade dos serviços de cuidado a idosos em Instituições de Longa Permanência para Idosos.",
+    "paginaFontePdf": 65
+  },
+  {
+    "id": "chapa-30-industria-e-comercio",
+    "chapaId": "chapa-30",
+    "temaId": "industria-e-comercio",
+    "resumo": "Atrair investimentos para indústria e tecnologia, ampliar a concorrência e facilitar o comércio exterior.",
+    "compromissoCitado": "Alavancar a energia limpa e barata para expansão dos investimentos na indústria e tecnologia.",
+    "paginaFontePdf": 34
+  },
+  {
+    "id": "chapa-30-infraestrutura",
+    "chapaId": "chapa-30",
+    "temaId": "infraestrutura",
+    "resumo": "Executar um portfólio nacional de investimentos, ampliar concessões e PPPs e modernizar transportes e saneamento.",
+    "compromissoCitado": "Construir e executar o maior portfólio de investimentos em infraestrutura da história do país.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-30-meio-ambiente",
+    "chapaId": "chapa-30",
+    "temaId": "meio-ambiente",
+    "resumo": "Combater grilagem e desmatamento ilegal, universalizar saneamento, proteger áreas naturais e preparar o país para desastres climáticos.",
+    "compromissoCitado": "Enfrentar a grilagem e o desmatamento ilegal.",
+    "paginaFontePdf": 48
+  },
+  {
+    "id": "chapa-30-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-30",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Proteger a liberdade de expressão e a imprensa livre, vedando censura estatal e restrições arbitrárias nas redes sociais.",
+    "compromissoCitado": "Proibir a censura nas redes sociais.",
+    "paginaFontePdf": 74
+  },
+  {
+    "id": "chapa-30-mineracao-e-garimpo",
+    "chapaId": "chapa-30",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Destravar autorizações de mineração, ampliar dados geológicos e combater garimpo ilegal e mineração ligada ao crime organizado.",
+    "compromissoCitado": "Acabar com o garimpo ilegal e a mineração do crime organizado.",
+    "paginaFontePdf": 35
+  },
+  {
+    "id": "chapa-30-mobilidade-urbana",
+    "chapaId": "chapa-30",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Integrar a mobilidade urbana à política nacional de infraestrutura e expandir metrôs, trens urbanos, VLTs e transporte de massa.",
+    "compromissoCitado": "Fortalecer a mobilidade urbana como política nacional de infraestrutura.",
+    "paginaFontePdf": 30
+  },
+  {
+    "id": "chapa-30-mulheres",
+    "chapaId": "chapa-30",
+    "temaId": "mulheres",
+    "resumo": "Ampliar delegacias da mulher 24 horas, fortalecer Patrulhas Maria da Penha e expandir casas-abrigo e serviços de acolhimento.",
+    "compromissoCitado": "Ampliar a rede de delegacias da mulher com atuação 24 horas e equipes preferencialmente femininas capacitadas em violência de gênero.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-30-pacto-federativo",
+    "chapaId": "chapa-30",
+    "temaId": "pacto-federativo",
+    "resumo": "Fortalecer a autonomia dos estados, estimular a união de municípios e redistribuir a representação na Câmara.",
+    "compromissoCitado": "Fortalecer a autonomia dos estados.",
+    "paginaFontePdf": 75
+  },
+  {
+    "id": "chapa-30-pessoas-com-deficiencia",
+    "chapaId": "chapa-30",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Ampliar o atendimento inclusivo e especializado para estudantes com deficiência e TEA.",
+    "compromissoCitado": "Ampliar as opções de atendimento para estudantes com deficiências e transtorno do espectro autista.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-30-previdencia",
+    "chapaId": "chapa-30",
+    "temaId": "previdencia",
+    "resumo": "Reformar definitivamente a Previdência, envolvendo estados, municípios, previdência rural e militar.",
+    "compromissoCitado": "Reformar a Previdência de forma definitiva.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-30-relacao-entre-os-poderes",
+    "chapaId": "chapa-30",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Limitar decisões monocráticas e o ativismo judicial, restabelecendo limites entre Congresso e Supremo Tribunal Federal.",
+    "compromissoCitado": "Limitar as possibilidades de reversão de decisões do Congresso pelo STF, acabando com o ativismo judicial.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-30-relacoes-internacionais",
+    "chapaId": "chapa-30",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar diplomacia pragmática, recuperar protagonismo regional, ingressar na OCDE e ampliar acordos comerciais.",
+    "compromissoCitado": "Retomar o processo de adesão do Brasil à OCDE.",
+    "paginaFontePdf": 37
+  },
+  {
+    "id": "chapa-30-reforma-institucional",
+    "chapaId": "chapa-30",
+    "temaId": "reforma-institucional",
+    "resumo": "Aproximar o poder do eleitor, reformar o pacto federativo, adotar voto distrital misto e extinguir fundos partidário e eleitoral.",
+    "compromissoCitado": "Adotar o voto distrital misto para aproximar o mandatário do eleitor.",
+    "paginaFontePdf": 75
+  },
+  {
+    "id": "chapa-30-soberania",
+    "chapaId": "chapa-30",
+    "temaId": "soberania",
+    "resumo": "Modernizar a defesa e a inteligência nacionais, proteger fronteiras e preservar a autonomia decisória do Brasil.",
+    "compromissoCitado": "Robustecer os sistemas de defesa nacional e as Forças Armadas.",
     "paginaFontePdf": 77
+  },
+  {
+    "id": "chapa-30-saude-publica",
+    "chapaId": "chapa-30",
+    "temaId": "saude-publica",
+    "resumo": "Digitalizar a saúde, ampliar atenção primária e prevenção, reduzir filas e integrar serviços públicos e privados.",
+    "compromissoCitado": "Construir um registro nacional de saúde unificado e sob controle do cidadão por meio do prontuário eletrônico.",
+    "paginaFontePdf": 58
+  },
+  {
+    "id": "chapa-30-seguranca-juridica",
+    "chapaId": "chapa-30",
+    "temaId": "seguranca-juridica",
+    "resumo": "Uniformizar regras e procedimentos, acelerar a resolução de conflitos e dar previsibilidade a decisões jurídicas e regulatórias.",
+    "compromissoCitado": "Garantir segurança, previsibilidade e eficiência dos sistemas jurídico e regulatório.",
+    "paginaFontePdf": 20
+  },
+  {
+    "id": "chapa-30-seguranca-publica",
+    "chapaId": "chapa-30",
+    "temaId": "seguranca-publica",
+    "resumo": "Retomar territórios dominados pelo crime, endurecer a legislação, integrar forças de segurança e ampliar a proteção às mulheres.",
+    "compromissoCitado": "Empregar as Forças Armadas de forma integrada às polícias para retomar territórios dominados pelo crime organizado.",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-30-tecnologia",
+    "chapaId": "chapa-30",
+    "temaId": "tecnologia",
+    "resumo": "Atrair investimentos em data centers e inteligência artificial, fortalecer pesquisa e tecnologia e ampliar formação em áreas STEM.",
+    "compromissoCitado": "Destravar investimentos, principalmente em setores de forte crescimento como data centers.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-30-trabalho-e-emprego",
+    "chapaId": "chapa-30",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Criar regime alternativo à CLT, reduzir custos de contratação, qualificar trabalhadores e ampliar a liberdade de trabalho.",
+    "compromissoCitado": "Oferecer ao trabalhador e ao empregador um regime alternativo à CLT, com mais liberdade para negociarem as regras da contratação.",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-30-turismo",
+    "chapaId": "chapa-30",
+    "temaId": "turismo",
+    "resumo": "Destravar investimentos privados em turismo, qualificar destinos e profissionalizar a gestão e a promoção turística.",
+    "compromissoCitado": "Aumentar a atratividade de parques e destinos turísticos naturais e históricos com a ajuda do setor privado.",
+    "paginaFontePdf": 71
+  },
+  {
+    "id": "chapa-14-agricultura-e-ruralismo",
+    "chapaId": "chapa-14",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Aumentar a produtividade agropecuária, garantir segurança jurídica no campo, reduzir a dependência de fertilizantes importados e verticalizar as cadeias do agro.",
+    "compromissoCitado": "Executar e ampliar o Plano Nacional de Fertilizantes e construir o marco da exploração mineral controlada em terras indígenas.",
+    "paginaFontePdf": 42
+  },
+  {
+    "id": "chapa-14-assistencia-social",
+    "chapaId": "chapa-14",
+    "temaId": "assistencia-social",
+    "resumo": "Substituir o Bolsa Família por Frentes Cidadãs de trabalho remunerado e inserir beneficiários em capacitação e emprego formal.",
+    "compromissoCitado": "Frentes Cidadãs: substituição do Bolsa Família por um modelo de frentes de trabalho em que os beneficiários participam de projetos para o bem público.",
+    "paginaFontePdf": 22
+  },
+  {
+    "id": "chapa-14-criancas-e-adolescentes",
+    "chapaId": "chapa-14",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Criar código nacional de conduta estudantil e ampliar a disciplina e a proteção de crianças e adolescentes no ambiente escolar.",
+    "compromissoCitado": "Criar um código de conduta para o estudante, implementado em nível nacional, com punições objetivas para comportamentos inadequados em sala de aula.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-14-cultura",
+    "chapaId": "chapa-14",
+    "temaId": "cultura",
+    "resumo": "Reformar o fomento cultural, proteger o patrimônio, apoiar novos talentos e aproximar a cultura da educação.",
+    "compromissoCitado": "Critérios objetivos e publicizados para avaliação de projetos, teto progressivo de captação para artistas e produtoras com alto faturamento e reserva para novos talentos.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-14-desenvolvimento-regional",
+    "chapaId": "chapa-14",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Criar Zonas Econômicas Especiais para desenvolver o Nordeste e outras regiões por meio de indústria, infraestrutura, energia e tecnologia.",
+    "compromissoCitado": "Criação de Zonas Econômicas Especiais como instrumento estratégico de transformação industrial e desenvolvimento econômico brasileiro.",
+    "paginaFontePdf": 35
+  },
+  {
+    "id": "chapa-14-economia-e-sistema-financeiro",
+    "chapaId": "chapa-14",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Destravar a produtividade com reformas microeconômicas, justiça tributária, regulação financeira e redução de subsídios e privilégios.",
+    "compromissoCitado": "Reformas microeconômicas e regulatórias voltadas à justiça tributária, legislação trabalhista, regulação financeira e governança pública.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-14-educacao",
+    "chapaId": "chapa-14",
+    "temaId": "educacao",
+    "resumo": "Elevar a qualidade da educação básica, adotar alfabetização fônica, reforçar disciplina escolar e ampliar STEM e bolsas por mérito no ensino superior.",
+    "compromissoCitado": "Elevar o nível de qualidade de nossas escolas, com foco especial nas disciplinas básicas do currículo, língua portuguesa e matemática.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-14-empreendedorismo",
+    "chapaId": "chapa-14",
+    "temaId": "empreendedorismo",
+    "resumo": "Estimular empreendedorismo, inovação e formação de capital humano como parte da agenda de produtividade e crescimento.",
+    "compromissoCitado": "Substituição do Bolsa Família por um programa de Frentes Cidadãs que incentive a inserção dos beneficiários ao mercado formal de trabalho.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-14-energia",
+    "chapaId": "chapa-14",
+    "temaId": "energia",
+    "resumo": "Ampliar a transmissão de energia renovável, retomar Angra 3 e explorar hidrogênio verde e tecnologias nucleares.",
+    "compromissoCitado": "Marco regulatório da transmissão de energia, retomada decisiva das obras de Angra 3 e exploração do hidrogênio verde.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-14-esporte",
+    "chapaId": "chapa-14",
+    "temaId": "esporte",
+    "resumo": "Integrar esporte e saúde e criar mecanismos de incentivo fiscal para atividades esportivas.",
+    "compromissoCitado": "Elaboração de um plano de isenções fiscais com atividades esportivas.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-14-estado-digital",
+    "chapaId": "chapa-14",
+    "temaId": "estado-digital",
+    "resumo": "Digitalizar a saúde e integrar dados por meio de prontuário eletrônico nacional, telemedicina e inteligência artificial.",
+    "compromissoCitado": "Criação do PRONTO, Prontuário Eletrônico Nacional Interoperável.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-14-gestao-publica-e-fiscal",
+    "chapaId": "chapa-14",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Substituir o Arcabouço Fiscal por um novo modelo, reformar o funcionalismo, reduzir supersalários e racionalizar despesas e renúncias fiscais.",
+    "compromissoCitado": "Aprovação de uma PEC de Transição baseada na PEC do Equilíbrio Fiscal, com economia projetada de R$ 1,1 trilhão até 2031.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-14-industria-e-comercio",
+    "chapaId": "chapa-14",
+    "temaId": "industria-e-comercio",
+    "resumo": "Criar zonas industriais de alto valor e verticalizar a cadeia de terras raras, semicondutores, baterias e defesa.",
+    "compromissoCitado": "Criação de uma planta-piloto de separação e refino de terras raras em 2029-2030.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-14-infraestrutura",
+    "chapaId": "chapa-14",
+    "temaId": "infraestrutura",
+    "resumo": "Elevar o investimento em infraestrutura, recuperar obras paralisadas e expandir ferrovias, portos, aeroportos e transmissão de energia.",
+    "compromissoCitado": "Aumento do investimento estatal em infraestrutura, mobilização de capital privado por concessões e PPPs e meta mínima de 40 mil km de malha ferroviária.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-14-meio-ambiente",
+    "chapaId": "chapa-14",
+    "temaId": "meio-ambiente",
+    "resumo": "Acelerar licenciamento ambiental com critérios técnicos, promover mineração de baixo carbono e integrar tecnologia à sustentabilidade agrícola.",
+    "compromissoCitado": "Implementação plena da Lei Geral do Licenciamento Ambiental, com uso da Licença Ambiental Especial para acelerar projetos estratégicos.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-14-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-14",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Defender a liberdade de imprensa, revisar o marco legal do setor e criar um Código Unificado de Imprensa.",
+    "compromissoCitado": "Criação de um Código Unificado de imprensa visando disciplinar o setor e eliminar as lacunas legais.",
+    "paginaFontePdf": 29
+  },
+  {
+    "id": "chapa-14-mineracao-e-garimpo",
+    "chapaId": "chapa-14",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Transformar terras raras em cadeia produtiva estratégica, com refino nacional, centros de pesquisa e financiamento público e privado.",
+    "compromissoCitado": "Aprovação de PEC que declare as terras raras questão de segurança nacional, blindando a política setorial contra flutuações eleitorais.",
+    "paginaFontePdf": 40
+  },
+  {
+    "id": "chapa-14-mobilidade-urbana",
+    "chapaId": "chapa-14",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Modernizar os modais de transporte e expandir ferrovias, conectando regiões e reduzindo gargalos logísticos.",
+    "compromissoCitado": "Ferrovias: meta mínima de 40 mil km de malha; conclusão da FIOL, início da Ferrogrão e viabilização da Ferrovia Transoceânica.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-14-pacto-federativo",
+    "chapaId": "chapa-14",
+    "temaId": "pacto-federativo",
+    "resumo": "Promover a Grande Consolidação Municipal, fundindo municípios inviáveis e reorganizando o Fundo de Participação dos Municípios.",
+    "compromissoCitado": "Criação de um Marco Legal da Consolidação Municipal, com critérios de população, contiguidade, unidade federativa, atividade econômica e capacidade fiscal.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-14-previdencia",
+    "chapaId": "chapa-14",
+    "temaId": "previdencia",
+    "resumo": "Reformar a Previdência e desindexar benefícios previdenciários e assistenciais do salário mínimo, corrigindo-os pela inflação.",
+    "compromissoCitado": "A PEC do Equilíbrio Fiscal promove a desindexação de benefícios previdenciários e assistenciais do salário mínimo.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-14-relacao-entre-os-poderes",
+    "chapaId": "chapa-14",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Criar mecanismos de responsabilização gerencial, intervenção federal gradual e condicionamento de recursos partidários ao desempenho dos gestores.",
+    "compromissoCitado": "A Lei de Responsabilidade Gerencial permitirá intervenções graduais do poder federal nos municípios que não cumprirem as metas.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-14-relacoes-internacionais",
+    "chapaId": "chapa-14",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Posicionar o Brasil como árbitro do Sul Global, liderar integração latino-americana e lusófona e adotar diplomacia pragmática.",
+    "compromissoCitado": "Posicionamento do Brasil como Árbitro do Sul Global por meio de uma diplomacia ativa na África, Ásia e América Latina.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-14-reforma-institucional",
+    "chapaId": "chapa-14",
+    "temaId": "reforma-institucional",
+    "resumo": "Refundar o modelo gerencial do Estado, criar um contrato social e institucional estratégico e reorganizar incentivos políticos e administrativos.",
+    "compromissoCitado": "Criação do Comissariado Federal de Gestão Pública, com autonomia técnica e fiscalização em tempo real da aplicação de recursos federais.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-14-soberania",
+    "chapaId": "chapa-14",
+    "temaId": "soberania",
+    "resumo": "Retomar territórios dominados pelo crime, proteger fronteiras, fortalecer a indústria de defesa e alcançar autonomia no ciclo nuclear.",
+    "compromissoCitado": "Proteção das fronteiras com expansão da tecnologia SISFRON, presença estatal permanente e cooperação internacional.",
+    "paginaFontePdf": 46
+  },
+  {
+    "id": "chapa-14-saude-publica",
+    "chapaId": "chapa-14",
+    "temaId": "saude-publica",
+    "resumo": "Criar fila de saúde por risco, digitalizar o SUS com IA e telemedicina e implantar prontuário eletrônico nacional interoperável.",
+    "compromissoCitado": "Criação da ENER, a Escala Nacional de Estratificação de Risco, para substituir a fila cronológica por prioridade de risco.",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-14-seguranca-juridica",
+    "chapaId": "chapa-14",
+    "temaId": "seguranca-juridica",
+    "resumo": "Restaurar segurança jurídica no campo, criar marcos legais previsíveis e estabelecer um Código Unificado de Imprensa.",
+    "compromissoCitado": "Restauração da segurança jurídica no campo, com revogação da Nota Técnica nº 4/2025 e endurecimento da legislação sobre esbulho possessório.",
+    "paginaFontePdf": 42
+  },
+  {
+    "id": "chapa-14-seguranca-publica",
+    "chapaId": "chapa-14",
+    "temaId": "seguranca-publica",
+    "resumo": "Adotar Guerra ao Crime, Direito Penal do Inimigo, retomada territorial, superpresídios e inteligência integrada contra facções.",
+    "compromissoCitado": "Declaração, no primeiro dia de mandato, de uma grande Guerra ao Crime visando à adoção imediata do Direito Penal do Inimigo.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-14-tecnologia",
+    "chapaId": "chapa-14",
+    "temaId": "tecnologia",
+    "resumo": "Criar um Marco Brasileiro da Inteligência Artificial, laboratórios nacionais, zonas de alta inteligência e infraestrutura computacional soberana.",
+    "compromissoCitado": "O Projeto Abaporu será um laboratório nacional de inteligência artificial com capital privado majoritário e governança independente.",
+    "paginaFontePdf": 43
+  },
+  {
+    "id": "chapa-14-trabalho-e-emprego",
+    "chapaId": "chapa-14",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Criar frentes de trabalho remuneradas, estimular a inserção formal e alinhar educação, produtividade e emprego.",
+    "compromissoCitado": "Substituição do Bolsa Família por frentes de trabalho remuneradas para a população em idade economicamente ativa.",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-16-agricultura-e-ruralismo",
+    "chapaId": "chapa-16",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Fazer reforma agrária, transferir o controle das terras aos trabalhadores rurais e fortalecer a agricultura familiar e agroecológica.",
+    "compromissoCitado": "Terra a quem nela trabalha! Por reforma agrária e por uma revolução na estrutura do campo brasileiro.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-16-assistencia-social",
+    "chapaId": "chapa-16",
+    "temaId": "assistencia-social",
+    "resumo": "Garantir proteção social, serviços públicos universais e renda para trabalhadores desempregados e famílias vulneráveis.",
+    "compromissoCitado": "Bolsa equivalente a um salário mínimo para trabalhadores desempregados enquanto não houver pleno emprego.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-16-corrupcao",
+    "chapaId": "chapa-16",
+    "temaId": "corrupcao",
+    "resumo": "Investigar e punir corruptos e corruptores, confiscar bens obtidos por corrupção e responsabilizar agentes públicos envolvidos com o crime.",
+    "compromissoCitado": "Investigação e punição de corruptos e corruptores, com confisco dos bens obtidos por meio da corrupção.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-16-criancas-e-adolescentes",
+    "chapaId": "chapa-16",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Ampliar creches, garantir educação pública e proteger crianças e adolescentes contra violência e exploração.",
+    "compromissoCitado": "Ampliação de vagas em creches, escolas e universidades públicas.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-16-cultura",
+    "chapaId": "chapa-16",
+    "temaId": "cultura",
+    "resumo": "Garantir cultura como direito, apoiar a produção periférica e combater a criminalização das culturas populares.",
+    "compromissoCitado": "Contra a criminalização das culturas periféricas: funk e batalhas de rima não são casos de polícia.",
+    "paginaFontePdf": 20
+  },
+  {
+    "id": "chapa-16-economia-e-sistema-financeiro",
+    "chapaId": "chapa-16",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Estatizar o sistema financeiro, centralizar o crédito, taxar grandes fortunas e suspender o pagamento da dívida para financiar direitos sociais.",
+    "compromissoCitado": "A estatização do sistema financeiro e centralização do crédito em um banco único é essencial para planejar a economia.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-16-educacao",
+    "chapaId": "chapa-16",
+    "temaId": "educacao",
+    "resumo": "Defender educação pública, gratuita e crítica, sem privatização, terceirização ou controle empresarial das políticas educacionais.",
+    "compromissoCitado": "Investimento massivo na educação pública.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-16-energia",
+    "chapaId": "chapa-16",
+    "temaId": "energia",
+    "resumo": "Estatizar empresas de energia, reverter privatizações e colocar o setor sob controle social e dos trabalhadores.",
+    "compromissoCitado": "Expropriação imediata das grandes empresas privadas dos setores de mineração, petróleo, energia e siderurgia.",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-16-esporte",
+    "chapaId": "chapa-16",
+    "temaId": "esporte",
+    "resumo": "Garantir esporte, lazer e saúde como direitos públicos integrados às condições de vida da classe trabalhadora.",
+    "compromissoCitado": "Saúde, educação, moradia, transporte público e aposentadoria para todos.",
+    "paginaFontePdf": 9
+  },
+  {
+    "id": "chapa-16-estado-digital",
+    "chapaId": "chapa-16",
+    "temaId": "estado-digital",
+    "resumo": "Criar infraestrutura digital pública, inteligência artificial nacional e plataformas sob controle dos trabalhadores.",
+    "compromissoCitado": "Proibição da hospedagem de dados governamentais sensíveis em nuvens estrangeiras.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-16-infraestrutura",
+    "chapaId": "chapa-16",
+    "temaId": "infraestrutura",
+    "resumo": "Executar plano nacional de obras públicas para gerar empregos, universalizar saneamento e construir escolas, hospitais e creches.",
+    "compromissoCitado": "Plano nacional de obras públicas voltado à geração de empregos, universalização do saneamento básico, construção de escolas, hospitais e creches.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-16-lgbtqia",
+    "chapaId": "chapa-16",
+    "temaId": "lgbtqia",
+    "resumo": "Criminalizar a LGBTfobia, garantir abrigo, saúde especializada, direitos sociais, cotas e trabalho digno para pessoas LGBTQIAPN+.",
+    "compromissoCitado": "Vidas LGBTQIAPN+ importam: basta de violência! Criminalização da lgbtfobia já!",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-16-meio-ambiente",
+    "chapaId": "chapa-16",
+    "temaId": "meio-ambiente",
+    "resumo": "Recuperar áreas degradadas, proteger biomas e comunidades tradicionais, combater agrotóxicos e enfrentar desastres climáticos.",
+    "compromissoCitado": "Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-16-mobilidade-urbana",
+    "chapaId": "chapa-16",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Garantir transporte público estatal, tarifa zero, integração da rede e reversão das concessões privadas.",
+    "compromissoCitado": "Estatização dos sistemas de transporte urbano e reversão das concessões privadas.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-16-mulheres",
+    "chapaId": "chapa-16",
+    "temaId": "mulheres",
+    "resumo": "Combater feminicídio e violência, garantir igualdade salarial, direitos reprodutivos, creches e socialização do trabalho doméstico.",
+    "compromissoCitado": "Proteção real para as mulheres: delegacias especializadas abertas 24 horas, casas-abrigo e rede de atendimento.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-16-pessoas-com-deficiencia",
+    "chapaId": "chapa-16",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Garantir emprego, acessibilidade, intérprete de Libras, ambientes inclusivos e assistência médica gratuita pelo SUS.",
+    "compromissoCitado": "Acessibilidade: rampas e elevadores para cadeirantes nos serviços públicos, bancos e supermercados.",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-16-politicas-raciais",
+    "chapaId": "chapa-16",
+    "temaId": "politicas-raciais",
+    "resumo": "Ampliar cotas e reparação, titular territórios quilombolas e combater racismo, genocídio e intolerância religiosa.",
+    "compromissoCitado": "Manutenção e ampliação de cotas para negros nas universidades e serviços públicos.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-16-previdencia",
+    "chapaId": "chapa-16",
+    "temaId": "previdencia",
+    "resumo": "Revogar a reforma da Previdência, defender previdência pública e garantir aposentadoria digna e proteção aos trabalhadores precarizados.",
+    "compromissoCitado": "Revogação da reforma da Previdência.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-16-relacoes-internacionais",
+    "chapaId": "chapa-16",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Romper com o imperialismo, enfrentar grandes potências e construir política externa anti-imperialista e soberana.",
+    "compromissoCitado": "Não é possível uma real soberania sem romper com o imperialismo.",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-16-reforma-institucional",
+    "chapaId": "chapa-16",
+    "temaId": "reforma-institucional",
+    "resumo": "Construir poder baseado em organismos democráticos, conselhos populares, representantes eleitos e revogáveis e auto-organização.",
+    "compromissoCitado": "Defendemos um poder baseado em organismos democráticos construídos pela própria classe trabalhadora e seus aliados em luta.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-16-soberania",
+    "chapaId": "chapa-16",
+    "temaId": "soberania",
+    "resumo": "Reestatizar setores estratégicos, controlar riquezas nacionais e desenvolver tecnologia e indústria sob controle público e dos trabalhadores.",
+    "compromissoCitado": "Petrobras 100% estatal e sob controle dos trabalhadores já!",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-16-saude-publica",
+    "chapaId": "chapa-16",
+    "temaId": "saude-publica",
+    "resumo": "Defender SUS público, universal e estatal, ampliar investimentos, produzir medicamentos e expandir hospitais, UPAs e UBS.",
+    "compromissoCitado": "Defesa do SUS público, universal, gratuito e 100% estatal.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-16-seguranca-publica",
+    "chapaId": "chapa-16",
+    "temaId": "seguranca-publica",
+    "resumo": "Combater organizações criminosas por investigação e inteligência, desmilitarizar polícias, controlar armas e garantir controle popular.",
+    "compromissoCitado": "Desmilitarização da Polícia Militar e reversão da dinâmica de militarização das demais polícias e guardas municipais.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-16-tecnologia",
+    "chapaId": "chapa-16",
+    "temaId": "tecnologia",
+    "resumo": "Desenvolver inteligência artificial pública, softwares livres e tecnologias sob controle estatal e dos trabalhadores.",
+    "compromissoCitado": "Desenvolvimento de uma inteligência artificial pública nacional, financiada por excedentes de empresas estratégicas expropriadas.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-16-trabalho-e-emprego",
+    "chapaId": "chapa-16",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Acabar com a escala 6x1, reduzir a jornada para 36 horas, aumentar o salário mínimo, revogar reformas e garantir pleno emprego.",
+    "compromissoCitado": "Redução da jornada de trabalho para 36 horas, sem redução dos salários e sem flexibilização de direitos, rumo ao pleno emprego.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-13-agricultura-e-ruralismo",
+    "chapaId": "chapa-13",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Ampliar Plano Safra, crédito, assistência técnica, compras públicas e políticas de agroecologia para a agricultura familiar e o agronegócio sustentável.",
+    "compromissoCitado": "Vamos continuar expandindo o Plano Safra da Agricultura Familiar, com prioridade para a produção de alimentos da cesta básica.",
+    "paginaFontePdf": 59
+  },
+  {
+    "id": "chapa-13-assistencia-social",
+    "chapaId": "chapa-13",
+    "temaId": "assistencia-social",
+    "resumo": "Fortalecer o SUAS, ampliar a proteção social básica e especial e consolidar uma política nacional de cuidados.",
+    "compromissoCitado": "Avançaremos ainda mais no fortalecimento da Proteção Social Básica e da Proteção Social Especial.",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-13-corrupcao",
+    "chapaId": "chapa-13",
+    "temaId": "corrupcao",
+    "resumo": "Aprofundar prevenção, investigação, responsabilização e transparência no combate à corrupção.",
+    "compromissoCitado": "Vamos dar sequência às medidas de controle e integridade da administração pública e ao combate à corrupção.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-13-criancas-e-adolescentes",
+    "chapaId": "chapa-13",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Combater pobreza infantil, ampliar creches, vacinação e proteção digital e reforçar investigação de crimes contra crianças e adolescentes.",
+    "compromissoCitado": "Não recuaremos um passo sequer na proteção digital de crianças e adolescentes, com aprimoramento do ECA Digital.",
+    "paginaFontePdf": 24
+  },
+  {
+    "id": "chapa-13-cultura",
+    "chapaId": "chapa-13",
+    "temaId": "cultura",
+    "resumo": "Aperfeiçoar o fomento cultural, desconcentrar recursos, fortalecer Pontos de Cultura e ampliar equipamentos culturais.",
+    "compromissoCitado": "Os principais instrumentos de fomento, Lei Aldir Blanc e Lei Rouanet, serão aperfeiçoados e implementados de forma transparente e democrática.",
+    "paginaFontePdf": 40
+  },
+  {
+    "id": "chapa-13-desenvolvimento-regional",
+    "chapaId": "chapa-13",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Usar fundos constitucionais, inovação, infraestrutura e políticas produtivas para reduzir desigualdades regionais e fortalecer economias locais.",
+    "compromissoCitado": "O desenvolvimento nacional deve tratar o equilíbrio territorial como critério permanente de suas políticas.",
+    "paginaFontePdf": 55
+  },
+  {
+    "id": "chapa-13-economia-e-sistema-financeiro",
+    "chapaId": "chapa-13",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Manter responsabilidade fiscal, justiça tributária, redução sustentável dos juros e fortalecimento da regulação e do mercado de capitais.",
+    "compromissoCitado": "Vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e política fiscal responsável.",
+    "paginaFontePdf": 49
+  },
+  {
+    "id": "chapa-13-educacao",
+    "chapaId": "chapa-13",
+    "temaId": "educacao",
+    "resumo": "Ampliar alfabetização, creches, tempo integral, institutos federais, ensino superior e assistência estudantil.",
+    "compromissoCitado": "Seguiremos com as ações e políticas pactuadas para chegarmos à meta de 80% das crianças alfabetizadas na idade certa.",
+    "paginaFontePdf": 31
+  },
+  {
+    "id": "chapa-13-empreendedorismo",
+    "chapaId": "chapa-13",
+    "temaId": "empreendedorismo",
+    "resumo": "Ampliar crédito, qualificação, assistência técnica, digitalização e compras públicas para micro, pequenas e médias empresas e empreendedores populares.",
+    "compromissoCitado": "Vamos ampliar e aprimorar políticas para os trabalhadores autônomos e pequenos empreendedores.",
+    "paginaFontePdf": 76
+  },
+  {
+    "id": "chapa-13-energia",
+    "chapaId": "chapa-13",
+    "temaId": "energia",
+    "resumo": "Ampliar renováveis, armazenamento e transmissão, combater pobreza energética e acelerar biocombustíveis e hidrogênio de baixa emissão.",
+    "compromissoCitado": "Daremos sequência à estratégia de incrementar a participação de fontes renováveis e acelerar a substituição progressiva de combustíveis fósseis.",
+    "paginaFontePdf": 64
+  },
+  {
+    "id": "chapa-13-esporte",
+    "chapaId": "chapa-13",
+    "temaId": "esporte",
+    "resumo": "Ampliar Bolsa Atleta, implementar a Universidade do Esporte, fortalecer Arenas Brasil e democratizar o acesso às práticas esportivas.",
+    "compromissoCitado": "Vamos continuar ampliando e fortalecendo o programa Bolsa Atleta.",
+    "paginaFontePdf": 43
+  },
+  {
+    "id": "chapa-13-estado-digital",
+    "chapaId": "chapa-13",
+    "temaId": "estado-digital",
+    "resumo": "Universalizar serviços digitais, integrar bases públicas, criar letramento digital e fortalecer a soberania digital.",
+    "compromissoCitado": "Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade.",
+    "paginaFontePdf": 17
+  },
+  {
+    "id": "chapa-13-gestao-publica-e-fiscal",
+    "chapaId": "chapa-13",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Aprimorar gestão pública, planejamento, transparência, controle social, compras governamentais e cooperação federativa.",
+    "compromissoCitado": "Aprimoraremos o modelo de centralização e compartilhamento de serviços de suporte entre ministérios e órgãos do Executivo federal.",
+    "paginaFontePdf": 17
+  },
+  {
+    "id": "chapa-13-idosos",
+    "chapaId": "chapa-13",
+    "temaId": "idosos",
+    "resumo": "Expandir Centros-Dia, instituições de longa permanência, atendimento domiciliar e políticas de envelhecimento ativo e saudável.",
+    "compromissoCitado": "Vamos dar escala ao Programa de Atenção Domiciliar ao Idoso, o PADI Brasil, para todo o território nacional.",
+    "paginaFontePdf": 22
+  },
+  {
+    "id": "chapa-13-industria-e-comercio",
+    "chapaId": "chapa-13",
+    "temaId": "industria-e-comercio",
+    "resumo": "Fortalecer a Nova Indústria Brasil, agregar valor, apoiar inovação e ampliar exportações industriais e defesa comercial.",
+    "compromissoCitado": "Nosso objetivo central será aprimorar e fortalecer a neoindustrialização.",
+    "paginaFontePdf": 50
+  },
+  {
+    "id": "chapa-13-infraestrutura",
+    "chapaId": "chapa-13",
+    "temaId": "infraestrutura",
+    "resumo": "Manter e ampliar o Novo PAC, investimentos logísticos, saneamento, habitação, mobilidade e infraestrutura urbana resiliente.",
+    "compromissoCitado": "A nova edição do Novo PAC manterá a articulação dos investimentos públicos e privados em infraestrutura logística.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-13-lgbtqia",
+    "chapaId": "chapa-13",
+    "temaId": "lgbtqia",
+    "resumo": "Garantir políticas inclusivas e direitos da população LGBTQIAP+, enfrentando violência, discriminação e desigualdades.",
+    "compromissoCitado": "Garantir capacidade de o Estado atender, de forma adequada, justa e inclusiva, às pessoas LGBTQIAP+.",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-13-meio-ambiente",
+    "chapaId": "chapa-13",
+    "temaId": "meio-ambiente",
+    "resumo": "Alcançar desmatamento líquido zero, ampliar restauração, financiamento climático, adaptação e proteção da biodiversidade.",
+    "compromissoCitado": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030.",
+    "paginaFontePdf": 70
+  },
+  {
+    "id": "chapa-13-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-13",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Aprofundar regulação democrática das redes e plataformas, combater desinformação e garantir liberdade de expressão e opinião.",
+    "compromissoCitado": "Avançar ainda mais na regulação democrática das redes sociais e das plataformas digitais.",
+    "paginaFontePdf": 16
+  },
+  {
+    "id": "chapa-13-mineracao-e-garimpo",
+    "chapaId": "chapa-13",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Combater mineração ilegal e garimpo, proteger territórios indígenas e ampliar cadeias de minerais críticos com valor agregado.",
+    "compromissoCitado": "O combate à mineração ilegal continuará sendo prioridade estratégica, com investigação financeira obrigatória.",
+    "paginaFontePdf": 29
+  },
+  {
+    "id": "chapa-13-mobilidade-urbana",
+    "chapaId": "chapa-13",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Apoiar transporte coletivo de alta capacidade, eletrificar frotas e integrar regiões metropolitanas e cidades médias.",
+    "compromissoCitado": "Nosso compromisso é continuar apoiando investimentos em transporte coletivo de alta capacidade e na modernização e eletrificação progressiva das frotas.",
+    "paginaFontePdf": 46
+  },
+  {
+    "id": "chapa-13-mulheres",
+    "chapaId": "chapa-13",
+    "temaId": "mulheres",
+    "resumo": "Ampliar rede de proteção, combater feminicídio, promover autonomia econômica, igualdade salarial e direitos sexuais e reprodutivos.",
+    "compromissoCitado": "Concluiremos as 30 Casas da Mulher Brasileira e os 15 Centros de Referência da Mulher Brasileira.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-13-pacto-federativo",
+    "chapaId": "chapa-13",
+    "temaId": "pacto-federativo",
+    "resumo": "Aprofundar cooperação e governança federativa entre União, estados e municípios em políticas compartilhadas.",
+    "compromissoCitado": "Buscaremos fortalecer ainda mais a cooperação e a governança federativa.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-13-pessoas-com-deficiencia",
+    "chapaId": "chapa-13",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Manter o Viver sem Limites, ampliar acessibilidade, cotas, educação inclusiva e Centros Especializados de Reabilitação.",
+    "compromissoCitado": "Manteremos a implementação do Viver sem Limites e continuaremos promovendo ambientes inclusivos.",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-13-politicas-raciais",
+    "chapaId": "chapa-13",
+    "temaId": "politicas-raciais",
+    "resumo": "Combater o racismo, regulamentar o Estatuto da Igualdade Racial, manter cotas e titular territórios quilombolas.",
+    "compromissoCitado": "Avançaremos ainda mais na regulamentação do Estatuto da Igualdade Racial para a consolidação da equidade como política de Estado.",
+    "paginaFontePdf": 19
+  },
+  {
+    "id": "chapa-13-previdencia",
+    "chapaId": "chapa-13",
+    "temaId": "previdencia",
+    "resumo": "Ampliar acesso e financiamento da Previdência, flexibilizar contribuições e proteger trabalhadores de plataformas e trajetórias descontínuas.",
+    "compromissoCitado": "Vamos construir mecanismos contributivos mais flexíveis, capazes de acompanhar trajetórias ocupacionais descontínuas e múltiplas.",
+    "paginaFontePdf": 77
+  },
+  {
+    "id": "chapa-13-relacao-entre-os-poderes",
+    "chapaId": "chapa-13",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Aprofundar diálogo entre Poderes, enfrentar distorções das emendas e assegurar independência, harmonia e cooperação institucional.",
+    "compromissoCitado": "Assegurando independência, harmonia e cooperação entre os Poderes em todos os níveis da Federação.",
+    "paginaFontePdf": 16
+  },
+  {
+    "id": "chapa-13-relacoes-internacionais",
+    "chapaId": "chapa-13",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Aprofundar integração regional, cooperação Sul-Sul, multilateralismo, novos acordos e protagonismo internacional do Brasil.",
+    "compromissoCitado": "Consolidaremos o Mercosul como principal plataforma de integração econômica, produtiva, política e social da América do Sul.",
+    "paginaFontePdf": 80
+  },
+  {
+    "id": "chapa-13-reforma-institucional",
+    "chapaId": "chapa-13",
+    "temaId": "reforma-institucional",
+    "resumo": "Fortalecer democracia participativa, conselhos, conferências, transparência, controle social e modernização do Estado.",
+    "compromissoCitado": "Queremos que o ciclo orçamentário federal brasileiro também seja objeto de participação social.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-13-soberania",
+    "chapaId": "chapa-13",
+    "temaId": "soberania",
+    "resumo": "Fortalecer soberania democrática, científica, tecnológica, digital, energética, ambiental, econômica e de defesa.",
+    "compromissoCitado": "Queremos fortalecer a soberania brasileira em todas as suas dimensões.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-13-saude-publica",
+    "chapaId": "chapa-13",
+    "temaId": "saude-publica",
+    "resumo": "Expandir atenção básica e especializada, prontuário único, saúde digital, vacinação, medicamentos e produção nacional de insumos.",
+    "compromissoCitado": "Vamos acelerar a utilização de inteligência artificial para a triagem, a priorização de casos graves e a regulação por risco clínico.",
+    "paginaFontePdf": 35
+  },
+  {
+    "id": "chapa-13-seguranca-publica",
+    "chapaId": "chapa-13",
+    "temaId": "seguranca-publica",
+    "resumo": "Fortalecer SUSP, inteligência, controle de armas, combate ao crime organizado, fronteiras, prevenção e policiamento de proximidade.",
+    "compromissoCitado": "Fortaleceremos o Programa Brasil Contra o Crime Organizado, em cooperação com estados e municípios.",
+    "paginaFontePdf": 27
+  },
+  {
+    "id": "chapa-13-tecnologia",
+    "chapaId": "chapa-13",
+    "temaId": "tecnologia",
+    "resumo": "Fortalecer ciência, IA, datacenters, conectividade, pesquisa e tecnologias nacionais para uma economia digital soberana.",
+    "compromissoCitado": "Vamos avançar numa infraestrutura computacional soberana, com supercomputadores desenvolvidos e operados por instituições nacionais.",
+    "paginaFontePdf": 54
+  },
+  {
+    "id": "chapa-13-trabalho-e-emprego",
+    "chapaId": "chapa-13",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Valorizar o salário mínimo, formalizar empregos, proteger trabalhadores de plataformas, reduzir jornada e fortalecer negociação coletiva.",
+    "compromissoCitado": "Manteremos nossa ação para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial.",
+    "paginaFontePdf": 75
+  },
+  {
+    "id": "chapa-13-turismo",
+    "chapaId": "chapa-13",
+    "temaId": "turismo",
+    "resumo": "Desenvolver destinos regionais, integrar turismo e setores criativos, criar roteiros e ampliar promoção internacional.",
+    "compromissoCitado": "Vamos continuar apoiando o segmento para que o turismo, em seus múltiplos destinos regionais, contribua cada vez mais com o PIB.",
+    "paginaFontePdf": 57
+  },
+  {
+    "id": "chapa-35-agricultura-e-ruralismo",
+    "chapaId": "chapa-35",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Modernizar a produção rural, ampliar infraestrutura e crédito e apoiar o agronegócio e a agricultura familiar.",
+    "compromissoCitado": "O campo precisa de segurança jurídica, crédito, tecnologia e infraestrutura para produzir mais e melhor.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-35-corrupcao",
+    "chapaId": "chapa-35",
+    "temaId": "corrupcao",
+    "resumo": "Combater corrupção com transparência, controle, responsabilização e fortalecimento dos mecanismos de integridade pública.",
+    "compromissoCitado": "Tolerância zero com corrupção, privilégios e desperdício do dinheiro público.",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-35-criancas-e-adolescentes",
+    "chapaId": "chapa-35",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Ampliar proteção, prevenção da violência e políticas de cuidado e desenvolvimento para crianças e adolescentes.",
+    "compromissoCitado": "A infância e a adolescência terão prioridade nas políticas de proteção e prevenção.",
+    "paginaFontePdf": 23
+  },
+  {
+    "id": "chapa-35-desenvolvimento-regional",
+    "chapaId": "chapa-35",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Reduzir desigualdades territoriais com investimentos, infraestrutura, conectividade e estímulo às vocações econômicas locais.",
+    "compromissoCitado": "O desenvolvimento regional será orientado por investimentos que levem oportunidades para todas as regiões.",
+    "paginaFontePdf": 56
+  },
+  {
+    "id": "chapa-35-economia-e-sistema-financeiro",
+    "chapaId": "chapa-35",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Reduzir burocracia e carga sobre quem produz, controlar gastos e promover estabilidade, concorrência e responsabilidade fiscal.",
+    "compromissoCitado": "O equilíbrio das contas públicas é condição para crescimento, emprego e redução sustentável dos juros.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-35-educacao",
+    "chapaId": "chapa-35",
+    "temaId": "educacao",
+    "resumo": "Melhorar alfabetização, ensino básico, formação profissional e qualidade da aprendizagem com foco em resultados.",
+    "compromissoCitado": "A educação básica terá foco em aprendizagem, formação de professores e redução das desigualdades.",
+    "paginaFontePdf": 36
+  },
+  {
+    "id": "chapa-35-empreendedorismo",
+    "chapaId": "chapa-35",
+    "temaId": "empreendedorismo",
+    "resumo": "Facilitar abertura e operação de empresas, ampliar crédito e reduzir barreiras regulatórias para empreendedores.",
+    "compromissoCitado": "Menos burocracia, mais liberdade para empreender e condições para que pequenos negócios cresçam.",
+    "paginaFontePdf": 19
+  },
+  {
+    "id": "chapa-35-energia",
+    "chapaId": "chapa-35",
+    "temaId": "energia",
+    "resumo": "Expandir oferta e segurança energética, fortalecer fontes renováveis e modernizar redes e transmissão.",
+    "compromissoCitado": "A segurança energética depende de investimentos em geração, transmissão e diversificação da matriz.",
+    "paginaFontePdf": 47
+  },
+  {
+    "id": "chapa-35-esporte",
+    "chapaId": "chapa-35",
+    "temaId": "esporte",
+    "resumo": "Ampliar esporte de base, acesso comunitário, equipamentos esportivos e apoio ao alto rendimento.",
+    "compromissoCitado": "O esporte será tratado como política de saúde, educação, inclusão e desenvolvimento humano.",
+    "paginaFontePdf": 38
+  },
+  {
+    "id": "chapa-35-estado-digital",
+    "chapaId": "chapa-35",
+    "temaId": "estado-digital",
+    "resumo": "Digitalizar serviços públicos, integrar informações e facilitar o acesso do cidadão a serviços simples e transparentes.",
+    "compromissoCitado": "Um Estado digital, integrado e orientado ao cidadão reduz custos e melhora a entrega de serviços.",
+    "paginaFontePdf": 44
+  },
+  {
+    "id": "chapa-35-gestao-publica-e-fiscal",
+    "chapaId": "chapa-35",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Aumentar eficiência, transparência e avaliação de políticas, com controle de gastos e gestão baseada em resultados.",
+    "compromissoCitado": "A gestão pública deve ser transparente, eficiente e responsável com cada recurso do contribuinte.",
+    "paginaFontePdf": 54
+  },
+  {
+    "id": "chapa-35-industria-e-comercio",
+    "chapaId": "chapa-35",
+    "temaId": "industria-e-comercio",
+    "resumo": "Reindustrializar com inovação, competitividade, abertura de mercados e integração das empresas às cadeias globais.",
+    "compromissoCitado": "A indústria brasileira precisa de produtividade, inovação, segurança jurídica e acesso a mercados.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-35-infraestrutura",
+    "chapaId": "chapa-35",
+    "temaId": "infraestrutura",
+    "resumo": "Acelerar investimentos em logística, saneamento, conectividade, energia e infraestrutura urbana por meio de parcerias.",
+    "compromissoCitado": "Investimentos em infraestrutura são prioridade para destravar crescimento e melhorar a vida nas cidades.",
+    "paginaFontePdf": 46
+  },
+  {
+    "id": "chapa-35-mineracao-e-garimpo",
+    "chapaId": "chapa-35",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Dar segurança e responsabilidade à mineração, combater ilegalidades e agregar valor aos minerais estratégicos.",
+    "compromissoCitado": "A mineração deve respeitar regras ambientais, gerar riqueza e agregar valor no território nacional.",
+    "paginaFontePdf": 48
+  },
+  {
+    "id": "chapa-35-mobilidade-urbana",
+    "chapaId": "chapa-35",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Melhorar transporte coletivo, integração urbana, mobilidade metropolitana e infraestrutura para deslocamentos mais eficientes.",
+    "compromissoCitado": "A mobilidade urbana precisa de transporte coletivo eficiente, integrado e acessível.",
+    "paginaFontePdf": 47
+  },
+  {
+    "id": "chapa-35-pacto-federativo",
+    "chapaId": "chapa-35",
+    "temaId": "pacto-federativo",
+    "resumo": "Reequilibrar responsabilidades e recursos entre União, estados e municípios, fortalecendo autonomia e cooperação federativa.",
+    "compromissoCitado": "É preciso revisar o pacto federativo para aproximar recursos, responsabilidades e decisões do cidadão.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-35-relacoes-internacionais",
+    "chapaId": "chapa-35",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Ampliar comércio exterior, parcerias estratégicas e presença do Brasil em cadeias produtivas e instituições internacionais.",
+    "compromissoCitado": "O Brasil deve defender seus interesses e ampliar sua inserção internacional com pragmatismo.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-35-reforma-institucional",
+    "chapaId": "chapa-35",
+    "temaId": "reforma-institucional",
+    "resumo": "Modernizar instituições, melhorar governança, reduzir privilégios e fortalecer mecanismos de transparência e controle.",
+    "compromissoCitado": "A reforma institucional deve devolver eficiência, previsibilidade e confiança às instituições públicas.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-35-soberania",
+    "chapaId": "chapa-35",
+    "temaId": "soberania",
+    "resumo": "Defender autonomia estratégica, produção nacional, segurança energética, capacidade tecnológica e interesses brasileiros.",
+    "compromissoCitado": "Soberania exige capacidade de decidir, produzir e proteger os interesses nacionais.",
+    "paginaFontePdf": 50
+  },
+  {
+    "id": "chapa-35-saude-publica",
+    "chapaId": "chapa-35",
+    "temaId": "saude-publica",
+    "resumo": "Fortalecer atenção básica, reduzir filas, ampliar prevenção e integrar atendimento, tecnologia e financiamento do SUS.",
+    "compromissoCitado": "A saúde pública deve oferecer atendimento mais rápido, prevenção e cuidado próximo das pessoas.",
+    "paginaFontePdf": 27
+  },
+  {
+    "id": "chapa-35-seguranca-juridica",
+    "chapaId": "chapa-35",
+    "temaId": "seguranca-juridica",
+    "resumo": "Oferecer previsibilidade regulatória, respeito a contratos, licenciamento claro e estabilidade para investimentos e cidadãos.",
+    "compromissoCitado": "Segurança jurídica é indispensável para atrair investimentos, proteger contratos e garantir liberdade econômica.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-35-seguranca-publica",
+    "chapaId": "chapa-35",
+    "temaId": "seguranca-publica",
+    "resumo": "Combater crime organizado, fortalecer inteligência e fronteiras, integrar forças de segurança e proteger a população.",
+    "compromissoCitado": "O enfrentamento ao crime organizado exige integração, inteligência, controle territorial e cooperação entre os entes.",
+    "paginaFontePdf": 22
+  },
+  {
+    "id": "chapa-35-tecnologia",
+    "chapaId": "chapa-35",
+    "temaId": "tecnologia",
+    "resumo": "Apoiar inovação, conectividade, pesquisa aplicada, inteligência artificial e transformação digital de serviços e empresas.",
+    "compromissoCitado": "Tecnologia e inovação devem melhorar serviços públicos, produtividade e oportunidades para todos.",
+    "paginaFontePdf": 27
+  },
+  {
+    "id": "chapa-35-trabalho-e-emprego",
+    "chapaId": "chapa-35",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Estimular empregos formais, qualificação, autonomia profissional e ambiente favorável para trabalhadores e empresas.",
+    "compromissoCitado": "O crescimento de pequenos negócios e do empreendedorismo deve gerar mais trabalho e renda.",
+    "paginaFontePdf": 20
+  },
+  {
+    "id": "chapa-22-agricultura-e-ruralismo",
+    "chapaId": "chapa-22",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Ampliar o Seguro Rural, promover a titulação de terras, incentivar a armazenagem e apoiar a produção nacional de fertilizantes.",
+    "compromissoCitado": "Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor, dando ao produtor o horizonte de mais de um ano que ele precisa para planejar.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-22-assistencia-social",
+    "chapaId": "chapa-22",
+    "temaId": "assistencia-social",
+    "resumo": "Manter os programas sociais com combate a fraudes e priorizar beneficiários em programas de qualificação e inserção no trabalho.",
+    "compromissoCitado": "vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes.",
+    "paginaFontePdf": 42
+  },
+  {
+    "id": "chapa-22-corrupcao",
+    "chapaId": "chapa-22",
+    "temaId": "corrupcao",
+    "resumo": "Prevenir a corrupção com gestão técnica, blindagem de estatais e fundos de pensão contra indicações políticas e inteligência artificial.",
+    "compromissoCitado": "Comando técnico no lugar do apadrinhamento, estatais e fundos de pensão protegidos da indicação política e transparência sobre cada gasto são medidas que fecham as portas ao desvio.",
+    "paginaFontePdf": 70
+  },
+  {
+    "id": "chapa-22-criancas-e-adolescentes",
+    "chapaId": "chapa-22",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Ampliar creches integrais com voucher-creche para vagas privadas e reduzir a maioridade penal para 16 anos.",
+    "compromissoCitado": "Vamos ampliar a oferta de creches para as crianças desde a primeira infância, em período integral, com alimentação digna e foco no desenvolvimento infantil.",
+    "paginaFontePdf": 21
+  },
+  {
+    "id": "chapa-22-cultura",
+    "chapaId": "chapa-22",
+    "temaId": "cultura",
+    "resumo": "Valorizar tradições regionais, preservar o patrimônio histórico e aperfeiçoar leis de incentivo sem subordinação a agendas políticas.",
+    "compromissoCitado": "Na Cultura, valorizaremos as tradições brasileiras e aperfeiçoaremos as leis de incentivo, corrigindo distorções e favorecendo o desenvolvimento de outros polos regionais.",
+    "paginaFontePdf": 41
+  },
+  {
+    "id": "chapa-22-desenvolvimento-regional",
+    "chapaId": "chapa-22",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Reduzir desigualdades regionais com foco no Norte e Nordeste através de obras hídricas, ferrovia Trem do Nordeste e bioeconomia.",
+    "compromissoCitado": "O Brasil só será plenamente desenvolvido quando reduzir a distância entre as suas regiões, e isso exige um esforço especial onde a desigualdade é maior: o Norte e o Nordeste.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-22-economia-e-sistema-financeiro",
+    "chapaId": "chapa-22",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Promover equilíbrio fiscal para reduzir juros e inflação, revisar a reforma tributária e coibir o endividamento por apostas online.",
+    "compromissoCitado": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição.",
+    "paginaFontePdf": 71
+  },
+  {
+    "id": "chapa-22-educacao",
+    "chapaId": "chapa-22",
+    "temaId": "educacao",
+    "resumo": "Adotar o método fônico na alfabetização, expandir o ensino técnico no ensino médio, ampliar escolas cívico-militares e reformar o FIES.",
+    "compromissoCitado": "Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas.",
+    "paginaFontePdf": 35
+  },
+  {
+    "id": "chapa-22-empreendedorismo",
+    "chapaId": "chapa-22",
+    "temaId": "empreendedorismo",
+    "resumo": "Criar o programa Minha Primeira Empresa, reduzir a burocracia regulatória e ampliar linhas de crédito pela CAIXA e Sistema S.",
+    "compromissoCitado": "Para quem está começando, vamos criar o Minha Primeira Empresa: menos burocracia para abrir e formalizar o negócio, capacitação e orientação pelo Sistema S, para que o empreendedor aprenda a gerir o que criou.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-22-energia",
+    "chapaId": "chapa-22",
+    "temaId": "energia",
+    "resumo": "Simplificar a conta de luz, racionalizar encargos, expandir investimentos em biocombustíveis e infraestrutura de escoamento de gás.",
+    "compromissoCitado": "O Programa Nacional de Segurança Energética deverá ter foco em refino, processamento, escoamento e transporte de combustíveis e gás, permitir a exploração do gás não convencional (fracking) com responsabilidade ambiental.",
+    "paginaFontePdf": 52
+  },
+  {
+    "id": "chapa-22-esporte",
+    "chapaId": "chapa-22",
+    "temaId": "esporte",
+    "resumo": "Criar o Programa Escola de Campeões com PPPs escolares, incentivar o paradesporto e assegurar que a categoria feminina seja disputada por atletas do sexo feminino.",
+    "compromissoCitado": "Vamos criar o Programa Escola de Campeões, com parcerias público-privadas para levar o esporte competitivo às escolas, muito além da aula de educação física.",
+    "paginaFontePdf": 40
+  },
+  {
+    "id": "chapa-22-estado-digital",
+    "chapaId": "chapa-22",
+    "temaId": "estado-digital",
+    "resumo": "Digitalizar 100% dos serviços públicos federais, adotar a identidade digital única pelo Gov.br e utilizar IA para automatizar atendimentos.",
+    "compromissoCitado": "Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui.",
+    "paginaFontePdf": 25
+  },
+  {
+    "id": "chapa-22-gestao-publica-e-fiscal",
+    "chapaId": "chapa-22",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Cortar ao menos 10 ministérios, reduzir cargos comissionados, limitar gastos discricionários e reformar a administração pública.",
+    "compromissoCitado": "Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento.",
+    "paginaFontePdf": 69
+  },
+  {
+    "id": "chapa-22-idosos",
+    "chapaId": "chapa-22",
+    "temaId": "idosos",
+    "resumo": "Oferecer o programa Casa Segura para Envelhecer, combater fraudes em empréstimos consignados no INSS e expandir instituições de longa permanência.",
+    "compromissoCitado": "Para a população idosa, vamos oferecer o programa Casa Segura para Envelhecer, com subsídio à acessibilidade domiciliar para famílias de menor renda.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-22-industria-e-comercio",
+    "chapaId": "chapa-22",
+    "temaId": "industria-e-comercio",
+    "resumo": "Agregar valor à cadeia de minerais críticos no Brasil, integrar a indústria às cadeias globais de valor e desonerar investimentos.",
+    "compromissoCitado": "Em vez de somente exportar a pedra bruta e comprar de volta o produto acabado, vamos agregar valor no Brasil, conectando nossa riqueza mineral, nossa energia e a demanda dos data centers e das novas tecnologias numa estratégia única.",
+    "paginaFontePdf": 55
+  },
+  {
+    "id": "chapa-22-infraestrutura",
+    "chapaId": "chapa-22",
+    "temaId": "infraestrutura",
+    "resumo": "Investir R$ 900 bilhões em quatro anos em logística, expandir ferrovias e hidrovias e criar Corredores Logísticos Inteligentes.",
+    "compromissoCitado": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias. Criaremos os Corredores Logísticos Inteligentes de integração nacional.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-22-meio-ambiente",
+    "chapaId": "chapa-22",
+    "temaId": "meio-ambiente",
+    "resumo": "Zerar o desmatamento ilegal até 2029, consolidar o mercado de carbono e remunerar produtores por serviços ambientais.",
+    "compromissoCitado": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo.",
+    "paginaFontePdf": 58
+  },
+  {
+    "id": "chapa-22-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-22",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Promover o Tesouraço na Censura, eliminando órgãos estatais de controle de conteúdo e garantindo a livre manifestação do pensamento.",
+    "compromissoCitado": "Vamos fazer um Tesouraço da Censura: acabar com qualquer estrutura estatal que funcione como um 'Ministério da Verdade', encarregada de vigiar, rotular ou punir o que as pessoas dizem.",
+    "paginaFontePdf": 66
+  },
+  {
+    "id": "chapa-22-mineracao-e-garimpo",
+    "chapaId": "chapa-22",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Acelerar licenciamentos minerários, atrair tecnologia estrangeira e incentivar o refino e industrialização de minerais estratégicos no país.",
+    "compromissoCitado": "Estabeleceremos parcerias internacionais com todos os países que queiram a cooperação do Brasil, sem preconceitos ou ranços ideológicos... acelerar o licenciamento e o processo de direitos minerários.",
+    "paginaFontePdf": 55
+  },
+  {
+    "id": "chapa-22-mobilidade-urbana",
+    "chapaId": "chapa-22",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Priorizar financiamentos para linhas de metrô, transporte sobre trilhos e ônibus movidos a eletricidade e biocombustíveis.",
+    "compromissoCitado": "Os bancos públicos priorizarão o financiamento de linhas de metrô, transporte sobre trilhos e ônibus movidos a eletricidade e biocombustíveis.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-22-mulheres",
+    "chapaId": "chapa-22",
+    "temaId": "mulheres",
+    "resumo": "Criar o programa Brasil por Elas com a Central da Mulher, concessão de bônus de internet e monitoramento eletrônico de agressores.",
+    "compromissoCitado": "A Central da Mulher será um espaço físico onde a mulher resolve a vida sem perder tempo nem percorrer a cidade inteira. Nela, encontrará acolhimento e proteção, orientação jurídica e apoio psicológico.",
+    "paginaFontePdf": 17
+  },
+  {
+    "id": "chapa-22-pacto-federativo",
+    "chapaId": "chapa-22",
+    "temaId": "pacto-federativo",
+    "resumo": "Revisar o pacto federativo para conceder maior autonomia aos municípios, simplificar a execução de recursos e dar transparência às emendas.",
+    "compromissoCitado": "Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas.",
+    "paginaFontePdf": 69
+  },
+  {
+    "id": "chapa-22-pessoas-com-deficiencia",
+    "chapaId": "chapa-22",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Implantar Centros de Referência em Transtorno do Espectro Autista, promover acessibilidade domiciliar e fomentar o paradesporto.",
+    "compromissoCitado": "Nossas políticas serão transversais, atravessando todas as áreas do governo, voltadas a ações concretas de garantia de direitos, inclusão e integração social, entre elas a implantação de Centros de Referência em Transtorno do Espectro Autista.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-22-previdencia",
+    "chapaId": "chapa-22",
+    "temaId": "previdencia",
+    "resumo": "Reeditar pacote antifraude na Previdência, vetar descontos associativos não autorizados e profissionalizar a gestão do INSS.",
+    "compromissoCitado": "Reeditaremos um pacote antifraude na Previdência, nos moldes do que fizemos em 2019, e não pouparemos esforços para coibir qualquer nova tentativa de roubar o dinheiro de quem já deu sua contribuição ao país.",
+    "paginaFontePdf": 72
+  },
+  {
+    "id": "chapa-22-reforma-institucional",
+    "chapaId": "chapa-22",
+    "temaId": "reforma-institucional",
+    "resumo": "Propor o fim da reeleição presidencial, limitar decisões monocráticas no STF e reformar o sistema político.",
+    "compromissoCitado": "E propomos o fim da reeleição para o cargo de Presidente da República.",
+    "paginaFontePdf": 66
+  },
+  {
+    "id": "chapa-22-relacao-entre-os-poderes",
+    "chapaId": "chapa-22",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Limitar decisões monocráticas no STF, retirar o fórum criminal originário de parlamentares no STF e quarentena para indicação de ministros.",
+    "compromissoCitado": "Limitação das decisões monocráticas do STF, privilegiando as decisões colegiadas e presumindo a constitucionalidade do processo legislativo.",
+    "paginaFontePdf": 65
+  },
+  {
+    "id": "chapa-22-relacoes-internacionais",
+    "chapaId": "chapa-22",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar diplomacia pragmática e comercial, retomar o processo de adesão à OCDE e ampliar acordos de livre comércio.",
+    "compromissoCitado": "O passo mais urgente é retomar o cronograma interrompido de adesão à OCDE, incluindo o fim gradual do IOF sobre o câmbio, que é condição obrigatória do processo.",
+    "paginaFontePdf": 63
+  },
+  {
+    "id": "chapa-22-saude-publica",
+    "chapaId": "chapa-22",
+    "temaId": "saude-publica",
+    "resumo": "Implantar o prontuário eletrônico único, reajustar a tabela SUS, ampliar a telessaúde e contratar capacidade ociosa da rede privada.",
+    "compromissoCitado": "Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-22-seguranca-juridica",
+    "chapaId": "chapa-22",
+    "temaId": "seguranca-juridica",
+    "resumo": "Garantir estabilidade de regras por até 20 anos em grandes projetos, fixar prazos limites para licenciamentos e respeitar a propriedade privada.",
+    "compromissoCitado": "Para os grandes projetos de longa maturação, criaremos mecanismos de estabilidade das regras de até 20 anos, para que o contrato não seja mudado depois que a obra já estiver de pé.",
+    "paginaFontePdf": 50
+  },
+  {
+    "id": "chapa-22-seguranca-publica",
+    "chapaId": "chapa-22",
+    "temaId": "seguranca-publica",
+    "resumo": "Declarar facções criminosas como organizações narcoterroristas, construir 5 presídios de segurança máxima (TREVA) e reduzir a maioridade penal para 16 anos.",
+    "compromissoCitado": "Vamos declarar guerra ao crime organizado. PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-22-soberania",
+    "chapaId": "chapa-22",
+    "temaId": "soberania",
+    "resumo": "Fortalecer a segurança de fronteiras com o Sistema Nacional de Fronteira, reequipando as Forças Armadas e protegendo os ativos estratégicos nacionais.",
+    "compromissoCitado": "Soberania é a capacidade de uma nação governar a si própria, fazer suas leis e cuidar do seu território. Ela se exerce na prática, com ações concretas.",
+    "paginaFontePdf": 61
+  },
+  {
+    "id": "chapa-22-tecnologia",
+    "chapaId": "chapa-22",
+    "temaId": "tecnologia",
+    "resumo": "Difundir a inteligência artificial na economia, atrair investimentos em data centers e elevar patentes nacionais em inovação.",
+    "compromissoCitado": "A Estratégia Nacional de Inteligência Artificial vai difundir a IA para as micro, pequenas e médias empresas em larga escala, com prioridade para indústria, agronegócio, saúde e logística.",
+    "paginaFontePdf": 56
+  },
+  {
+    "id": "chapa-22-trabalho-e-emprego",
+    "chapaId": "chapa-22",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Reduzir o custo do trabalho, criar modalidades para primeiro emprego e trabalhadores com mais de 50 anos, e garantir a prevalência do negociado sobre o legislado.",
+    "compromissoCitado": "Vamos reduzir gradualmente o custo do trabalho, sem retirar direitos, para que mais brasileiros tenham carteira assinada e a proteção que vem com ela.",
+    "paginaFontePdf": 43
+  },
+  {
+    "id": "chapa-22-turismo",
+    "chapaId": "chapa-22",
+    "temaId": "turismo",
+    "resumo": "Promover destinos turísticos nacionais, integrando investimentos em segurança pública e infraestrutura logística.",
+    "compromissoCitado": "Somar a isso a promoção do destino Brasil e a valorização das vocações de cada região, para que o turismo gere renda e emprego, sobretudo nas cidades do interior.",
+    "paginaFontePdf": 59
+  },
+  {
+    "id": "chapa-55-agricultura-e-ruralismo",
+    "chapaId": "chapa-55",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Elevar a produtividade agropecuária nas áreas já abertas, recuperar pastagens, ampliar tecnologia e conectividade no campo e fortalecer uma produção mais eficiente e sustentável.",
+    "compromissoCitado": "Aprofundar programas de recuperação de pastagens degradadas e ampliar o financiamento aos sistemas de integração lavoura-pecuária-floresta.",
+    "paginaFontePdf": 22
+  },
+  {
+    "id": "chapa-55-assistencia-social",
+    "chapaId": "chapa-55",
+    "temaId": "assistencia-social",
+    "resumo": "Preservar a transferência de renda, integrar CadÚnico e SUAS a saúde, educação, trabalho e habitação e criar transição gradual para beneficiários que elevarem a renda.",
+    "compromissoCitado": "Preservar os programas de transferência de renda, atualizar cadastros e combater fraude sem constranger beneficiários.",
+    "paginaFontePdf": 61
+  },
+  {
+    "id": "chapa-55-corrupcao",
+    "chapaId": "chapa-55",
+    "temaId": "corrupcao",
+    "resumo": "Criar um sistema nacional anticorrupção, integrar órgãos de controle e inteligência financeira, usar análise de riscos em gastos públicos e reforçar programas de integridade.",
+    "compromissoCitado": "Instituir o Sistema Nacional Anticorrupção e de Integridade Pública, integrando os órgãos de controle, investigação, inteligência financeira e defesa jurídica do Estado.",
+    "paginaFontePdf": 20
+  },
+  {
+    "id": "chapa-55-criancas-e-adolescentes",
+    "chapaId": "chapa-55",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Dar prioridade orçamentária à infância, integrar políticas desde os primeiros mil dias e fortalecer a proteção contra violências, exploração, trabalho infantil e recrutamento pelo crime.",
+    "compromissoCitado": "Identificar orçamento federal da infância, publicar metas e criar instância de coordenação na Presidência.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-55-cultura",
+    "chapaId": "chapa-55",
+    "temaId": "cultura",
+    "resumo": "Consolidar o Sistema Nacional de Cultura, dar estabilidade ao financiamento, ampliar o acesso territorial e profissionalizar a economia criativa com transparência e continuidade.",
+    "compromissoCitado": "Consolidar transferências fundo a fundo, fortalecer o Fundo Nacional de Cultura e combinar investimento direto, incentivo fiscal, crédito e fundos retornáveis.",
+    "paginaFontePdf": 28
+  },
+  {
+    "id": "chapa-55-desenvolvimento-regional",
+    "chapaId": "chapa-55",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Combinar infraestrutura, crédito, educação, inovação e serviços públicos em estratégias territoriais adaptadas às vocações de todas as regiões do país.",
+    "compromissoCitado": "Combinar infraestrutura, crédito, educação, inovação e serviços públicos em estratégias territoriais para o Nordeste, Amazônia, Centro-Oeste, Sudeste e Sul, com metas pactuadas e governança regional.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-55-economia-e-sistema-financeiro",
+    "chapaId": "chapa-55",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Reduzir o custo do capital produtivo, ampliar a concorrência financeira e instrumentos de longo prazo e direcionar bancos públicos a projetos com retorno social e avaliação de resultados.",
+    "compromissoCitado": "Estabilizar as contas, ampliar concorrência financeira, desenvolver garantias, mercado de capitais e instrumentos de longo prazo e direcionar bancos públicos a projetos com adicionalidade, retorno social e avaliação de resultado.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-55-educacao",
+    "chapaId": "chapa-55",
+    "temaId": "educacao",
+    "resumo": "Priorizar alfabetização na idade certa, recomposição das aprendizagens, expansão da educação profissional, valorização docente e ensino integral com foco em equidade.",
+    "compromissoCitado": "Apoiar estados e municípios para que todas as crianças leiam, escrevam, compreendam e dominem fundamentos matemáticos até o fim do 2º ano.",
+    "paginaFontePdf": 32
+  },
+  {
+    "id": "chapa-55-empreendedorismo",
+    "chapaId": "chapa-55",
+    "temaId": "empreendedorismo",
+    "resumo": "Simplificar obrigações e ampliar crédito, garantias, qualificação, transformação digital, compras públicas e acesso a mercados para micro e pequenas empresas.",
+    "compromissoCitado": "Simplificar obrigações, ampliar crédito e garantias, qualificação gerencial, transformação digital, compras públicas e acesso a mercados, reduzindo o custo de formalização e crescimento.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-55-energia",
+    "chapaId": "chapa-55",
+    "temaId": "energia",
+    "resumo": "Reduzir distorções na conta de luz, ampliar concorrência e segurança de suprimento e aproveitar energia limpa e combustíveis de baixa emissão como vantagem para consumidores e indústria.",
+    "compromissoCitado": "Rever, de forma gradual e transparente e respeitando os contratos e competências institucionais, os subsídios e encargos embutidos na conta de luz: publicar com clareza quem paga, quem recebe e qual o custo de cada benefício; estabelecer prazo de vigência, avaliação periódica e critérios objetivos de continuidade; e transferir progressivamente para o orçamento público, mediante decisão do Congresso, as políticas de natureza social ou setorial que não estejam diretamente vinculadas ao funcionamento do sistema elétrico.",
+    "paginaFontePdf": 35
+  },
+  {
+    "id": "chapa-55-esporte",
+    "chapaId": "chapa-55",
+    "temaId": "esporte",
+    "resumo": "Criar planejamento decenal para o esporte, ampliar prática escolar e comunitária, recuperar equipamentos, promover inclusão e estruturar o alto rendimento com dados e governança.",
+    "compromissoCitado": "Aprovar plano decenal com metas de acesso, formação, alto rendimento, integridade e economia esportiva.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-55-estado-digital",
+    "chapaId": "chapa-55",
+    "temaId": "estado-digital",
+    "resumo": "Criar governança digital coordenada e federativa, ampliar identidade digital e interoperabilidade do gov.br e cofinanciar capacidades digitais de estados e municípios.",
+    "compromissoCitado": "Criar centro de governo digital com autoridade para coordenar reguladores e ministérios, delimitar competências e exigir consulta entre órgãos antes de novas normas.",
+    "paginaFontePdf": 27
+  },
+  {
+    "id": "chapa-55-gestao-publica-e-fiscal",
+    "chapaId": "chapa-55",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Adotar estratégia fiscal plurianual, revisar subsídios e gastos sem resultado, conter o crescimento automático de despesas e ampliar transparência e prestação de contas.",
+    "compromissoCitado": "Definir trajetória para estabilizar a dívida em relação ao PIB, recuperar superávits primários e reduzir a despesa de juros, com metas anuais, bandas de tolerância, cláusulas de correção e prestação periódica de contas.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-55-idosos",
+    "chapaId": "chapa-55",
+    "temaId": "idosos",
+    "resumo": "Criar política integrada de envelhecimento ativo, atenção domiciliar, centros-dia, cuidadores, reabilitação e proteção contra violência e fraude.",
+    "compromissoCitado": "Criar política integrada de prevenção, convivência, atenção domiciliar, centros-dia, cuidadores, reabilitação e proteção contra violência e fraude.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-55-industria-e-comercio",
+    "chapaId": "chapa-55",
+    "temaId": "industria-e-comercio",
+    "resumo": "Transformar a política industrial em política de Estado, coordenando instrumentos de crédito, inovação, energia, compras públicas e inserção internacional para modernizar a produção.",
+    "compromissoCitado": "Promover o desenvolvimento de uma política industrial nacional, garantindo continuidade entre governos.",
+    "paginaFontePdf": 42
+  },
+  {
+    "id": "chapa-55-infraestrutura",
+    "chapaId": "chapa-55",
+    "temaId": "infraestrutura",
+    "resumo": "Criar planejamento nacional de longo prazo e carteira única de projetos, concluir obras viáveis, ampliar concessões e PPPs e dar previsibilidade regulatória e de investimento.",
+    "compromissoCitado": "Instituir um planejamento integrado de longo prazo, com horizonte de trinta anos e revisões periódicas, e uma carteira única de projetos priorizados por critérios técnicos de retorno econômico e social.",
+    "paginaFontePdf": 46
+  },
+  {
+    "id": "chapa-55-meio-ambiente",
+    "chapaId": "chapa-55",
+    "temaId": "meio-ambiente",
+    "resumo": "Combater desmatamento, grilagem e crimes ambientais com fiscalização e inteligência financeira, ao lado de regularização, restauração, bioeconomia e adaptação climática.",
+    "compromissoCitado": "Fortalecer fiscalização e inteligência financeira, recuperar terras públicas, responsabilizar financiadores e compradores de produtos ilegais e proteger agentes.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-55-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-55",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Preservar o devido processo legal, a liberdade de expressão, a imprensa livre e a independência institucional durante o combate à corrupção, ao crime organizado e à captura do Estado.",
+    "compromissoCitado": "Combater a corrupção, o crime organizado e a captura do Estado, ao mesmo tempo em que se preservam o devido processo legal, a liberdade de expressão, a imprensa livre e a independência das instituições.",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-55-mineracao-e-garimpo",
+    "chapaId": "chapa-55",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Ampliar processamento e tecnologia mineral no país, fortalecer segurança e fiscalização e combater o garimpo ilegal por rastreabilidade, cadeia de custódia e inteligência financeira.",
+    "compromissoCitado": "Criar sistema de origem e cadeia de custódia para ouro e minerais de alto risco, integrar notas fiscais, imagens, logística e inteligência financeira e responsabilizar compradores e financiadores.",
+    "paginaFontePdf": 54
+  },
+  {
+    "id": "chapa-55-mobilidade-urbana",
+    "chapaId": "chapa-55",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Tratar o transporte coletivo como política de Estado, criar financiamento plurianual e integrar redes metropolitanas, com modernização dos sistemas e foco em qualidade e acesso.",
+    "compromissoCitado": "Regulamentar e implementar integralmente a Lei nº 15.432/2026, definir responsabilidades federativas e tratar ônibus, trens, metrôs e sistemas estruturais como serviço essencial.",
+    "paginaFontePdf": 56
+  },
+  {
+    "id": "chapa-55-mulheres",
+    "chapaId": "chapa-55",
+    "temaId": "mulheres",
+    "resumo": "Combater o feminicídio com metas e integração entre segurança, justiça, saúde e assistência, além de ampliar proteção, autonomia econômica, saúde e igualdade de oportunidades.",
+    "compromissoCitado": "Estabelecer metas, protocolo de risco, integração de dados e responsabilidades de União, estados e municípios.",
+    "paginaFontePdf": 58
+  },
+  {
+    "id": "chapa-55-pacto-federativo",
+    "chapaId": "chapa-55",
+    "temaId": "pacto-federativo",
+    "resumo": "Fortalecer a cooperação federativa em segurança, simplificar o acesso de estados e municípios aos fundos federais e integrar estruturas especializadas de combate ao crime organizado.",
+    "compromissoCitado": "Descontingenciar e desburocratizar o acesso de estados e municípios aos fundos federais de segurança, simplificando a apresentação dos projetos e fortalecendo a fiscalização dos recursos e o acompanhamento dos resultados.",
+    "paginaFontePdf": 18
+  },
+  {
+    "id": "chapa-55-pessoas-com-deficiencia",
+    "chapaId": "chapa-55",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Assegurar acessibilidade universal, tecnologia assistiva, educação inclusiva, reabilitação, transporte, trabalho e apoio às famílias cuidadoras.",
+    "compromissoCitado": "Assegurar acessibilidade universal, tecnologia assistiva, educação inclusiva com apoio especializado, reabilitação, transporte e trabalho.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-55-politicas-raciais",
+    "chapaId": "chapa-55",
+    "temaId": "politicas-raciais",
+    "resumo": "Estabelecer metas mensuráveis de equidade, reduzir a violência contra a juventude negra, combater discriminação e ampliar oportunidades em educação, trabalho, saúde, habitação e crédito.",
+    "compromissoCitado": "Exigir que programas relevantes de educação, saúde, segurança, trabalho, habitação e crédito publiquem resultados por raça, território e gênero, observada a proteção de dados.",
+    "paginaFontePdf": 67
+  },
+  {
+    "id": "chapa-55-reforma-institucional",
+    "chapaId": "chapa-55",
+    "temaId": "reforma-institucional",
+    "resumo": "Reformar o sistema político com voto distrital misto, regras partidárias mais transparentes, redução da fragmentação e maior rastreabilidade do financiamento político.",
+    "compromissoCitado": "Propor modelo em que parte dos representantes seja eleita em distritos territoriais e parte por listas partidárias, preservando a proporcionalidade e combinando vínculo local com representação das correntes de opinião.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-55-relacao-entre-os-poderes",
+    "chapaId": "chapa-55",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Criar agenda regular entre Presidência, Congresso, governadores e instituições de Estado para acompanhar reformas, prevenir conflitos de competência e pactuar soluções federativas.",
+    "compromissoCitado": "Estabelecer agenda regular entre a Presidência, as Mesas do Congresso, lideranças partidárias, governadores e instituições de Estado para acompanhar reformas estruturais, prevenir conflitos de competência e pactuar soluções federativas.",
+    "paginaFontePdf": 9
+  },
+  {
+    "id": "chapa-55-relacoes-internacionais",
+    "chapaId": "chapa-55",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar política externa pragmática e sem alinhamento automático, diversificar relações, ampliar mercados e acordos e atrair investimentos e tecnologias de interesse nacional.",
+    "compromissoCitado": "Fortalecer simultaneamente as relações com os Estados Unidos, a União Europeia, a América Latina, a África, a Ásia e o Oriente Médio, sem hierarquias ou preferências determinadas por afinidades ideológicas.",
+    "paginaFontePdf": 73
+  },
+  {
+    "id": "chapa-55-saude-publica",
+    "chapaId": "chapa-55",
+    "temaId": "saude-publica",
+    "resumo": "Fortalecer o SUS com regulação inteligente de filas, integração de dados, atenção primária responsável, redes regionalizadas e gestão por acesso, qualidade e resultados.",
+    "compromissoCitado": "Criar um Sistema Nacional de Acesso e Regulação Inteligente que substitua progressivamente a fila passiva por uma jornada clínica rastreável.",
+    "paginaFontePdf": 77
+  },
+  {
+    "id": "chapa-55-seguranca-juridica",
+    "chapaId": "chapa-55",
+    "temaId": "seguranca-juridica",
+    "resumo": "Fortalecer agências reguladoras, garantir estabilidade dos contratos e ampliar soluções consensuais e arbitragem para reduzir incerteza e paralisação de investimentos.",
+    "compromissoCitado": "Garantir a estabilidade dos contratos como fundamento da atração de investimento e consolidar a solução consensual de conflitos, com repactuações estruturadas e arbitragem, em lugar de disputas que paralisam ativos por anos.",
+    "paginaFontePdf": 47
+  },
+  {
+    "id": "chapa-55-seguranca-publica",
+    "chapaId": "chapa-55",
+    "temaId": "seguranca-publica",
+    "resumo": "Reorganizar a coordenação federal da segurança, integrar inteligência e forças, combater facções e crime organizado, reforçar fronteiras e retomar o controle do sistema penitenciário.",
+    "compromissoCitado": "Instituir o Sistema Integrado de Proteção à Soberania Nacional, que contará com: Comando Nacional de Combate Integrado ao Terrorismo Doméstico; Comando Nacional de Fronteiras e Corredores Logísticos; Sistema Nacional de Inteligência Criminal; e Academia Nacional para Especialização no Combate ao Terrorismo Doméstico, Crimes de Fronteira e Litoral, Tráfico de Drogas e de Armas, Lavagem de Dinheiro e Tráfico Humano.",
+    "paginaFontePdf": 17
+  },
+  {
+    "id": "chapa-55-soberania",
+    "chapaId": "chapa-55",
+    "temaId": "soberania",
+    "resumo": "Tratar a defesa como política permanente de Estado, priorizando fronteiras, Amazônia, Atlântico Sul, ciberespaço e infraestruturas críticas e ampliando capacidade científica, tecnológica e industrial nacional.",
+    "compromissoCitado": "Atualizar a Estratégia Nacional de Defesa diante das transformações geopolíticas e tecnológicas, priorizando fronteiras, Amazônia, Atlântico Sul, espaço aéreo, ciberespaço, espaço e infraestruturas críticas.",
+    "paginaFontePdf": 30
+  },
+  {
+    "id": "chapa-55-tecnologia",
+    "chapaId": "chapa-55",
+    "temaId": "tecnologia",
+    "resumo": "Dar estabilidade ao financiamento científico, ampliar conectividade e infraestrutura computacional e desenvolver capacidades nacionais em inteligência artificial, cibersegurança, semicondutores e serviços digitais.",
+    "compromissoCitado": "Assegurar execução plurianual do FNDCT, proteção contra contingenciamentos, governança transparente, avaliação por resultados e estímulo a fundos patrimoniais que deem estabilidade às instituições e aos projetos de longo prazo.",
+    "paginaFontePdf": 26
+  },
+  {
+    "id": "chapa-55-trabalho-e-emprego",
+    "chapaId": "chapa-55",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Promover formação contínua, intermediação digital, transição profissional e inclusão de jovens e mulheres, com proteção nas novas formas de trabalho e redução de incentivos à informalidade.",
+    "compromissoCitado": "Promover formação contínua, intermediação digital, apoio à transição profissional, inclusão de jovens e mulheres, segurança para novas formas de trabalho e redução dos custos que empurram pessoas e empresas à informalidade.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-55-turismo",
+    "chapaId": "chapa-55",
+    "temaId": "turismo",
+    "resumo": "Tratar o turismo como cadeia produtiva estratégica, com metas de emprego e receita, gestão profissional de destinos e integração com infraestrutura, segurança, cultura e meio ambiente.",
+    "compromissoCitado": "Construir plano decenal com metas para chegadas internacionais, receita cambial, viagens domésticas, permanência, gasto, emprego formal, investimento e dispersão regional.",
+    "paginaFontePdf": 97
+  },
+  {
+    "id": "chapa-70-agricultura-e-ruralismo",
+    "chapaId": "chapa-70",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Ampliar a produção agropecuária com tecnologia, pesquisa, irrigação e logística, modernizar propriedades rurais e fortalecer pequenos produtores com crédito, assistência técnica e seguro rural.",
+    "compromissoCitado": "Investiremos em tecnologia, pesquisa, irrigação, logística e inovação para ampliar significativamente a produção agrícola, garantindo sustentabilidade ambiental e geração de riqueza.",
+    "paginaFontePdf": 47
+  },
+  {
+    "id": "chapa-70-assistencia-social",
+    "chapaId": "chapa-70",
+    "temaId": "assistencia-social",
+    "resumo": "Ampliar a inclusão produtiva de famílias vulneráveis, conectando proteção social a renda, capacitação e oportunidades de autonomia econômica.",
+    "compromissoCitado": "Programas de inclusão produtiva serão ampliados para garantir que famílias em situação de vulnerabilidade tenham acesso a renda, capacitação e oportunidades reais de ascensão social.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-70-corrupcao",
+    "chapaId": "chapa-70",
+    "temaId": "corrupcao",
+    "resumo": "Criar uma rede nacional de controle social, usar inteligência artificial na fiscalização, fortalecer órgãos de controle e ampliar transparência e integridade no setor público.",
+    "compromissoCitado": "Implantaremos uma ampla rede nacional de controle social denominada Sociedade Está de Olho (SEO), envolvendo cidadãos, universidades, entidades da sociedade civil, órgãos de controle e tecnologias inteligentes para acompanhar a aplicação dos recursos públicos.",
+    "paginaFontePdf": 52
+  },
+  {
+    "id": "chapa-70-criancas-e-adolescentes",
+    "chapaId": "chapa-70",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Priorizar prevenção de sofrimento emocional, automutilação e suicídio entre crianças, adolescentes e jovens, com educação emocional, identificação precoce de riscos e fortalecimento das redes de apoio.",
+    "compromissoCitado": "Desenvolveremos programas de educação emocional, identificação precoce de fatores de risco, capacitação de profissionais da educação e da saúde e fortalecimento das redes de apoio às famílias, especialmente entre crianças, adolescentes e jovens.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-70-cultura",
+    "chapaId": "chapa-70",
+    "temaId": "cultura",
+    "resumo": "Tratar a cultura como ativo estratégico, incentivar produção artística e economia criativa, preservar o patrimônio histórico e promover cultura de paz.",
+    "compromissoCitado": "A cultura será tratada como ativo estratégico do país, com incentivo à produção artística, audiovisual, musical, literária e digital, fortalecendo a identidade nacional.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-70-desenvolvimento-regional",
+    "chapaId": "chapa-70",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Reduzir desigualdades regionais por meio de polos produtivos, infraestrutura, conectividade, qualificação profissional e programas específicos para Nordeste, Amazônia e interior.",
+    "compromissoCitado": "Programas específicos serão implementados para impulsionar o desenvolvimento do Nordeste, da Amazônia e do interior do país, com investimentos em infraestrutura, educação, tecnologia e geração de empregos.",
+    "paginaFontePdf": 62
+  },
+  {
+    "id": "chapa-70-economia-e-sistema-financeiro",
+    "chapaId": "chapa-70",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Ampliar crédito para pequenos negócios, reduzir custos financeiros, estimular concorrência bancária e buscar equilíbrio fiscal com redução gradual da dívida pública.",
+    "compromissoCitado": "Criaremos um banco especializado em financiar pequenos empreendedores, microempresas e startups, oferecendo crédito acessível, orientação técnica e educação financeira.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-70-educacao",
+    "chapaId": "chapa-70",
+    "temaId": "educacao",
+    "resumo": "Priorizar a educação básica, melhorar alfabetização e aprendizagem, valorizar professores, expandir ensino técnico e incorporar gestão da emoção à formação escolar.",
+    "compromissoCitado": "A educação será a principal política de transformação nacional. Investiremos na alfabetização na idade certa, na melhoria da aprendizagem, na valorização dos professores e na redução das desigualdades educacionais.",
+    "paginaFontePdf": 43
+  },
+  {
+    "id": "chapa-70-empreendedorismo",
+    "chapaId": "chapa-70",
+    "temaId": "empreendedorismo",
+    "resumo": "Criar escolas de empreendedorismo, ampliar crédito e formação para pequenos negócios e simplificar a abertura e formalização de empresas.",
+    "compromissoCitado": "Implantaremos uma ampla rede nacional de Escolas de Empreendedorismo, formando milhões de jovens e adultos para criar empresas, inovar, administrar recursos e gerar empregos.",
+    "paginaFontePdf": 39
+  },
+  {
+    "id": "chapa-70-energia",
+    "chapaId": "chapa-70",
+    "temaId": "energia",
+    "resumo": "Expandir energia solar, eólica, biomassa e outras renováveis, desenvolver hidrogênio verde e transformar o Brasil em potência mundial de energia limpa.",
+    "compromissoCitado": "Ampliaremos investimentos em energia solar, eólica, biomassa, pequenas centrais hidrelétricas e outras fontes renováveis, transformando o país em referência internacional em sustentabilidade e segurança energética.",
+    "paginaFontePdf": 51
+  },
+  {
+    "id": "chapa-70-estado-digital",
+    "chapaId": "chapa-70",
+    "temaId": "estado-digital",
+    "resumo": "Transformar serviços públicos em uma estrutura digital integrada, reduzindo filas, papelada e deslocamentos e usando tecnologia para elevar a eficiência estatal.",
+    "compromissoCitado": "Nosso objetivo será transformar o Brasil em referência mundial em governo digital. Serviços públicos deverão estar disponíveis em plataformas integradas, reduzindo filas, papelada, deslocamentos e tempo perdido pelo cidadão.",
+    "paginaFontePdf": 38
+  },
+  {
+    "id": "chapa-70-gestao-publica-e-fiscal",
+    "chapaId": "chapa-70",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Buscar déficit público próximo de zero, controlar gastos, reduzir gradualmente a dívida e executar reforma administrativa orientada por eficiência e resultados.",
+    "compromissoCitado": "Nossa meta será perseguir o déficit próximo de zero, sem aventuras fiscais, preservando investimentos estratégicos e fortalecendo a confiança dos brasileiros e dos investidores nacionais e internacionais.",
+    "paginaFontePdf": 36
+  },
+  {
+    "id": "chapa-70-idosos",
+    "chapaId": "chapa-70",
+    "temaId": "idosos",
+    "resumo": "Dar prioridade a idosos com dificuldade de locomoção na universalização da medicina digital e ampliar seu acesso rápido a atendimento médico.",
+    "compromissoCitado": "Terão prioridade: • Crianças em situação de vulnerabilidade; • Idosos com dificuldade de locomoção; • Pessoas de baixa renda; • Gestantes; • Pessoas com deficiência; • Moradores de regiões remotas e comunidades rurais.",
+    "paginaFontePdf": 161
+  },
+  {
+    "id": "chapa-70-industria-e-comercio",
+    "chapaId": "chapa-70",
+    "temaId": "industria-e-comercio",
+    "resumo": "Estimular a instalação de novas indústrias, ampliar a transformação agroindustrial e inserir empresas brasileiras em cadeias tecnológicas e exportadoras de maior valor agregado.",
+    "compromissoCitado": "Implantaremos um grande programa nacional para estimular a instalação de 10 mil novas indústrias ao longo dos próximos anos, distribuídas por todas as regiões do país, valorizando as vocações econômicas locais e reduzindo as desigualdades regionais.",
+    "paginaFontePdf": 40
+  },
+  {
+    "id": "chapa-70-infraestrutura",
+    "chapaId": "chapa-70",
+    "temaId": "infraestrutura",
+    "resumo": "Ampliar concessões e PPPs, integrar rodovias, ferrovias, hidrovias, portos e aeroportos, universalizar conectividade e acelerar saneamento básico.",
+    "compromissoCitado": "Implantaremos um grande programa nacional de integração logística para reduzir o custo do transporte de cargas, aumentar a competitividade do agronegócio, da indústria e do comércio e conectar de forma eficiente todas as regiões do país.",
+    "paginaFontePdf": 50
+  },
+  {
+    "id": "chapa-70-meio-ambiente",
+    "chapaId": "chapa-70",
+    "temaId": "meio-ambiente",
+    "resumo": "Conciliar crescimento e preservação, ampliar bioeconomia e mercado de carbono, remunerar serviços ambientais e usar tecnologia e inteligência artificial na proteção de florestas.",
+    "compromissoCitado": "Nosso compromisso será produzir mais, gerar mais empregos, ampliar as exportações e preservar nossos recursos naturais por meio da ciência, da tecnologia e da gestão responsável dos ecossistemas.",
+    "paginaFontePdf": 52
+  },
+  {
+    "id": "chapa-70-mineracao-e-garimpo",
+    "chapaId": "chapa-70",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Mapear minerais críticos e terras raras, estimular processamento e industrialização no Brasil e agregar valor à mineração estratégica.",
+    "compromissoCitado": "Nossa política será agregar valor a essas riquezas naturais por meio da industrialização, evitando a simples exportação de matéria-prima.",
+    "paginaFontePdf": 41
+  },
+  {
+    "id": "chapa-70-mulheres",
+    "chapaId": "chapa-70",
+    "temaId": "mulheres",
+    "resumo": "Implantar o programa Mulheres Vivas para prevenir feminicídios, acelerar respostas a emergências, promover autonomia econômica, igualdade salarial, saúde integral e proteção emocional.",
+    "compromissoCitado": "Implantaremos o Programa Mulheres Vivas, integrando tecnologia, forças de segurança, atendimento psicológico, assistência jurídica e proteção social para oferecer respostas rápidas às vítimas e prevenir novos casos de violência.",
+    "paginaFontePdf": 53
+  },
+  {
+    "id": "chapa-70-pacto-federativo",
+    "chapaId": "chapa-70",
+    "temaId": "pacto-federativo",
+    "resumo": "Revisar a distribuição federativa de tributos para ampliar a participação dos municípios, onde se concentram responsabilidades diretas por serviços à população.",
+    "compromissoCitado": "Portanto, apresentaremos proposta de revisão do pacto federativo no aspecto tributário, o ideal seria menos União Federal e mais municípios.",
+    "paginaFontePdf": 38
+  },
+  {
+    "id": "chapa-70-pessoas-com-deficiencia",
+    "chapaId": "chapa-70",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Instituir política permanente de neuroinclusão para pessoas com autismo, TDAH, dislexia, transtornos de aprendizagem e altas habilidades, com adaptação escolar e formação de professores.",
+    "compromissoCitado": "O Projeto Brasil Neuroinclusivo institui uma política permanente de Estado para acolher crianças, adolescentes e adultos neurodivergentes, particularmente pessoas com autismo, TDAH, dislexia, transtornos de aprendizagem e altas habilidades.",
+    "paginaFontePdf": 81
+  },
+  {
+    "id": "chapa-70-reforma-institucional",
+    "chapaId": "chapa-70",
+    "temaId": "reforma-institucional",
+    "resumo": "Modernizar o sistema político, reduzir fragmentação partidária, fortalecer governabilidade e reformar o Supremo Tribunal Federal.",
+    "compromissoCitado": "O sistema político será modernizado para reduzir a fragmentação partidária, fortalecer a governabilidade e aumentar a representatividade.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-70-relacao-entre-os-poderes",
+    "chapaId": "chapa-70",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Adotar o semipresidencialismo e reformar o STF com o objetivo declarado de aumentar estabilidade e equilíbrio entre os Poderes.",
+    "compromissoCitado": "Propomos a adoção de um modelo semipresidencialista, no qual o Presidente da República compartilha a condução do governo com um Primeiro-Ministro escolhido a partir da maioria parlamentar.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-70-relacoes-internacionais",
+    "chapaId": "chapa-70",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar diplomacia ativa e pragmática, ampliar influência internacional e converter embaixadas em plataformas de promoção comercial, investimentos e abertura de mercados.",
+    "compromissoCitado": "O Brasil adotará uma política externa ativa, equilibrada e pragmática, baseada no diálogo, na cooperação internacional e na defesa dos interesses nacionais.",
+    "paginaFontePdf": 59
+  },
+  {
+    "id": "chapa-70-saude-publica",
+    "chapaId": "chapa-70",
+    "temaId": "saude-publica",
+    "resumo": "Fortalecer a atenção primária e o SUS, digitalizar prontuários, expandir telemedicina e implantar uma política nacional de saúde mental.",
+    "compromissoCitado": "Nossa prioridade será fortalecer sua gestão por meio da digitalização dos prontuários, integração dos sistemas, redução das filas, melhoria da eficiência administrativa e utilização de indicadores de desempenho para aprimorar continuamente os serviços prestados.",
+    "paginaFontePdf": 44
+  },
+  {
+    "id": "chapa-70-seguranca-juridica",
+    "chapaId": "chapa-70",
+    "temaId": "seguranca-juridica",
+    "resumo": "Aumentar previsibilidade institucional por meio de estabilidade regulatória, respeito aos contratos, fortalecimento das instituições e maior rapidez na solução de conflitos.",
+    "compromissoCitado": "Defenderemos estabilidade regulatória, respeito aos contratos, fortalecimento das instituições e rapidez na solução de conflitos.",
+    "paginaFontePdf": 37
+  },
+  {
+    "id": "chapa-70-seguranca-publica",
+    "chapaId": "chapa-70",
+    "temaId": "seguranca-publica",
+    "resumo": "Recriar o Ministério da Segurança Pública, integrar forças e inteligência, combater financeiramente facções e ampliar o uso de inteligência artificial, drones e monitoramento.",
+    "compromissoCitado": "O combate ao crime organizado exige atuação coordenada entre União, Estados e Municípios. Promoveremos integração plena entre Polícia Federal, Polícias Civis, Polícias Militares, Guardas Municipais (polícia FOCO - Força de Combate Preventivo), Ministério Público, Poder Judiciário e órgãos de inteligência, compartilhando informações em tempo real e fortalecendo operações conjuntas.",
+    "paginaFontePdf": 45
+  },
+  {
+    "id": "chapa-70-soberania",
+    "chapaId": "chapa-70",
+    "temaId": "soberania",
+    "resumo": "Defender soberania, segurança econômica e interesses estratégicos em comércio, energia, tecnologia, recursos naturais e infraestrutura digital.",
+    "compromissoCitado": "A política externa brasileira será guiada pela defesa da soberania, da segurança econômica e dos interesses estratégicos do país, com atuação firme em temas como comércio internacional, energia, tecnologia e recursos naturais.",
+    "paginaFontePdf": 60
+  },
+  {
+    "id": "chapa-70-tecnologia",
+    "chapaId": "chapa-70",
+    "temaId": "tecnologia",
+    "resumo": "Ampliar investimentos em ciência e pesquisa, criar estratégia nacional de inteligência artificial, fortalecer soberania digital e aproximar universidades do setor produtivo.",
+    "compromissoCitado": "A inteligência artificial será tratada como infraestrutura estratégica de Estado. Criaremos uma política nacional para desenvolvimento, regulação e aplicação da IA em serviços públicos, educação, saúde, segurança e gestão governamental, garantindo soberania tecnológica e competitividade global.",
+    "paginaFontePdf": 58
+  },
+  {
+    "id": "chapa-70-trabalho-e-emprego",
+    "chapaId": "chapa-70",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Criar programa nacional de inserção produtiva da juventude com incentivos ao primeiro emprego, ampliação de estágios e aprendizagem tecnológica.",
+    "compromissoCitado": "Criaremos um grande programa nacional de inserção produtiva da juventude, com incentivos fiscais para empresas que contratarem jovens em seu primeiro emprego, estágios ampliados e programas de aprendizagem tecnológica.",
+    "paginaFontePdf": 57
+  },
+  {
+    "id": "chapa-70-turismo",
+    "chapaId": "chapa-70",
+    "temaId": "turismo",
+    "resumo": "Promover o turismo brasileiro internacionalmente por meio da rede diplomática, influenciadores e duas campanhas anuais de descontos em parceria com empresas do setor.",
+    "compromissoCitado": "Serão criadas duas Black Weeks internacionais do turismo brasileiro por ano.",
+    "paginaFontePdf": 149
+  },
+  {
+    "id": "chapa-21-agricultura-e-ruralismo",
+    "chapaId": "chapa-21",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Executar reforma agrária popular, desapropriar latifúndios improdutivos e áreas com trabalho escravo, apoiar cooperativas e a produção agroecológica e ampliar infraestrutura, crédito, assistência técnica, armazenagem e transporte.",
+    "compromissoCitado": "A reforma agrária popular tem perspectiva anticapitalista, respeitando os povos originários e quilombolas e buscando configurar uma nova relação campo-cidade, com ênfase nas formas coletiva e estatal de propriedade.",
+    "paginaFontePdf": 9
+  },
+  {
+    "id": "chapa-21-assistencia-social",
+    "chapaId": "chapa-21",
+    "temaId": "assistencia-social",
+    "resumo": "Ampliar serviços de assistência à infância, pessoas em situação de rua, mulheres vítimas de violência e idosos, além de reforçar seguro-desemprego e auxílios emergenciais.",
+    "compromissoCitado": "Ampliação dos serviços de assistência para a infância, com o fortalecimento e a expansão dos conselhos tutelares, creches e orfanatos, o incentivo à adoção e o combate à exploração do trabalho infantil.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-21-corrupcao",
+    "chapaId": "chapa-21",
+    "temaId": "corrupcao",
+    "resumo": "Investigar privatizações e ilícitos associados, punir responsáveis, ampliar controle popular sobre instituições e restringir privilégios e remunerações acima do teto constitucional.",
+    "compromissoCitado": "As empresas estratégicas privatizadas serão retomadas para o patrimônio público, será investigado todo o processo de privatizações, com a punição dos responsáveis por adoção de medidas ilícitas, através da criação de uma comissão da verdade das privatizações.",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-21-criancas-e-adolescentes",
+    "chapaId": "chapa-21",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Ampliar creches, conselhos tutelares e medidas socioeducativas, combater trabalho infantil e garantir proteção social e educacional à infância e adolescência.",
+    "compromissoCitado": "Ampliação dos serviços de assistência para a infância, com o fortalecimento e a expansão dos conselhos tutelares, creches e orfanatos, o incentivo à adoção e o combate à exploração do trabalho infantil.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-21-cultura",
+    "chapaId": "chapa-21",
+    "temaId": "cultura",
+    "resumo": "Fortalecer cultura popular e de massas, ampliar espaços culturais nos bairros e romper com a mercantilização e a concentração dos meios de produção cultural.",
+    "compromissoCitado": "Resgate da cultura popular e de massas, de forma a envolver intelectuais, artistas, novos formadores e a juventude no desenvolvimento de uma cultura democrática, na qual todos possam ter acesso, buscando romper com os interesses dos monopólios dominantes nacionais e internacionais e com a mercantilização da cultura e das artes.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-21-desenvolvimento-regional",
+    "chapaId": "chapa-21",
+    "temaId": "desenvolvimento-regional",
+    "resumo": "Interiorizar educação técnica e serviços públicos, ampliar infraestrutura e reorganizar a produção e os transportes para reduzir desigualdades territoriais.",
+    "compromissoCitado": "Os Institutos Federais e as Escolas Técnicas serão ampliados para o interior do Brasil.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-21-economia-e-sistema-financeiro",
+    "chapaId": "chapa-21",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Nacionalizar e estatizar o sistema monetário e financeiro, reestruturar a dívida pública, suspender juros durante auditoria, retomar controle do câmbio e adotar tributação progressiva.",
+    "compromissoCitado": "A segunda grande transformação a ser realizada pelo governo do Poder Popular será a nacionalização, o controle público e a estatização do sistema monetário e financeiro.",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-21-educacao",
+    "chapaId": "chapa-21",
+    "temaId": "educacao",
+    "resumo": "Implantar educação 100% pública e gratuita, estatizar o sistema privado de ensino, expandir institutos federais, valorizar profissionais e ampliar cotas.",
+    "compromissoCitado": "Educação 100% pública e gratuita, com a estatização do sistema privado de ensino.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-21-energia",
+    "chapaId": "chapa-21",
+    "temaId": "energia",
+    "resumo": "Reestatizar a Eletrobras, estabelecer monopólio estatal em energia e gás, manter a Petrobras 100% estatal e investir em fontes renováveis e transição energética.",
+    "compromissoCitado": "Política de saneamento básico, tratamento de esgoto e energia para todos (com a reestatização da Eletrobras), visando acabar com o problema dos milhões de moradias sem banheiro, sem acesso a tratamento de esgoto e sem acesso à energia.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-21-gestao-publica-e-fiscal",
+    "chapaId": "chapa-21",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Revogar o Arcabouço Fiscal e a Lei de Responsabilidade Fiscal, criar Lei de Responsabilidade Social, restringir privilégios e ampliar investimentos públicos em áreas sociais.",
+    "compromissoCitado": "Criação da Lei de Responsabilidade Social, que assegure recursos para educação, saúde, saneamento, programas sociais e investimentos públicos.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-21-idosos",
+    "chapaId": "chapa-21",
+    "temaId": "idosos",
+    "resumo": "Ampliar abrigos, acompanhamento e políticas públicas de cuidado para idosos, especialmente pessoas com alto grau de dependência.",
+    "compromissoCitado": "Construção de uma política pública do cuidado, com a garantia de profissionais de apoio para acompanhamento diário, no próprio domicílio, de idosos e pessoas com deficiência com alto nível de dependência.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-21-industria-e-comercio",
+    "chapaId": "chapa-21",
+    "temaId": "industria-e-comercio",
+    "resumo": "Implementar nova política industrial, reestatizar empresas estratégicas e promover reindustrialização com foco em tecnologia, informática, telecomunicações e cadeias soberanas.",
+    "compromissoCitado": "Será desenvolvida uma nova política industrial, com estímulo à introdução dos ramos constitutivos das fronteiras tecnológicas.",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-21-infraestrutura",
+    "chapaId": "chapa-21",
+    "temaId": "infraestrutura",
+    "resumo": "Reestatizar infraestrutura de transportes, ampliar ferrovias e hidrovias e executar obras de saneamento, habitação e serviços públicos.",
+    "compromissoCitado": "Modernização e ampliação da malha ferroviária e hidroviária nacional, reduzindo o custo do transporte das mercadorias e racionalizando os fluxos comerciais no interior do país.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-21-lgbtqia",
+    "chapaId": "chapa-21",
+    "temaId": "lgbtqia",
+    "resumo": "Combater a LGBTfobia, universalizar cotas para a população trans e garantir emprego, saúde, moradia e educação para pessoas trans e travestis.",
+    "compromissoCitado": "Será uma prioridade do governo do Poder Popular acabar com baixíssima expectativa de vida da população Trans e Travesti, através de políticas de garantia de emprego, acesso a saúde pública, moradia e educação.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-21-meio-ambiente",
+    "chapaId": "chapa-21",
+    "temaId": "meio-ambiente",
+    "resumo": "Combater desmatamento e mineração ilegal, ampliar unidades de conservação e reflorestamento, reduzir combustíveis fósseis e adotar taxação sobre emissões e danos ambientais.",
+    "compromissoCitado": "Combate rigoroso ao desmatamento em todos os ecossistemas, à mineração ilegal, com uma profunda revisão nos processos de produção mineral em curso.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-21-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-21",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Democratizar os meios de comunicação, acabar com oligopólios e propriedade cruzada, revisar concessões e regular Big Techs e redes sociais.",
+    "compromissoCitado": "O governo do Poder Popular deve realizar a democratização radical dos meios de comunicação, com uma nova Lei Geral das Comunicações, baseada no fim do oligopólio privado e da propriedade cruzada atualmente existentes nos meios de comunicação e na internet.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-21-mineracao-e-garimpo",
+    "chapaId": "chapa-21",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Combater mineração ilegal, rever profundamente a produção mineral e estabelecer monopólio estatal sobre terras raras e minerais críticos.",
+    "compromissoCitado": "Retomada da base de Alcântara e revogação do contrato de entrega das terras raras, com monopólio estatal das terras raras e minerais críticos.",
+    "paginaFontePdf": 15
+  },
+  {
+    "id": "chapa-21-mobilidade-urbana",
+    "chapaId": "chapa-21",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Estatizar o transporte coletivo, implantar tarifa zero, ampliar metrôs, trens, barcas e veículos leves sobre trilhos e garantir transporte público 24 horas.",
+    "compromissoCitado": "Estímulo à encampação pública pelos municípios de todo o transporte de passageiros nas cidades, centralizando e renovando a estrutura de transporte, com a modernização e ampliação da frota de ônibus, a produção de veículos leves sobre trilhos, ampliação dos metrôs, trens e barcas, especialmente nas grandes metrópoles, de forma a garantir a tarifa zero para toda a população.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-21-mulheres",
+    "chapaId": "chapa-21",
+    "temaId": "mulheres",
+    "resumo": "Combater machismo e misoginia, legalizar o aborto, ampliar licenças parentais, zerar filas de creches e criar estruturas públicas que reduzam a sobrecarga doméstica.",
+    "compromissoCitado": "Legalização do aborto, com garantia de atendimento na rede pública de saúde, bem como políticas públicas que possibilitem a emancipação da mulher dos trabalhos domésticos, zerando as filas de creches, ampliando a educação integral e efetuando a construção massiva de restaurantes e lavanderias populares.",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-21-pessoas-com-deficiencia",
+    "chapaId": "chapa-21",
+    "temaId": "pessoas-com-deficiencia",
+    "resumo": "Garantir acessibilidade universal, Libras, mediadores concursados, tecnologia assistiva, campanhas acessíveis e política pública de cuidado domiciliar.",
+    "compromissoCitado": "Fornecimento, de forma gratuita, de equipamentos de tecnologia assistiva para todas as pessoas com deficiência.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-21-politicas-raciais",
+    "chapaId": "chapa-21",
+    "temaId": "politicas-raciais",
+    "resumo": "Combater o racismo, ampliar cotas, titular territórios quilombolas, proteger religiões de matriz africana, pôr fim ao marco temporal e enfrentar o genocídio da população negra e indígena.",
+    "compromissoCitado": "Fim do vestibular nas universidades federais e ampliação das cotas (54% para a população negra, refletindo o censo do IBGE).",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-21-previdencia",
+    "chapaId": "chapa-21",
+    "temaId": "previdencia",
+    "resumo": "Revogar a reforma previdenciária e expandir a previdência pública para cobertura universal de aposentadorias, pensões e benefícios.",
+    "compromissoCitado": "Expansão da previdência pública para a universalidade, com a garantia da cobertura de aposentadorias, pensões e benefícios para todos e todas.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-21-reforma-institucional",
+    "chapaId": "chapa-21",
+    "temaId": "reforma-institucional",
+    "resumo": "Convocar Assembleia Constituinte, extinguir o Senado, criar Parlamento unicameral, instituir revogação de mandatos e ampliar mecanismos de democracia direta.",
+    "compromissoCitado": "O Senado será extinto e substituído por um Parlamento Unicameral, com os mesmos critérios da Constituinte.",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-21-relacao-entre-os-poderes",
+    "chapaId": "chapa-21",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Democratizar o Judiciário, estabelecer mandatos fixos e revogáveis para tribunais superiores e ampliar controle social sobre a Justiça.",
+    "compromissoCitado": "Para reverter essa situação propomos uma reforma estrutural profunda de todo o judiciário brasileiro (incluindo necessariamente o Ministério Público), tanto do ponto de vista da legislação, quanto do controle social e transparência sobre a atividade da justiça.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-21-relacoes-internacionais",
+    "chapaId": "chapa-21",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Adotar política externa anti-imperialista, fortalecer integração latino-americana, apoiar povos considerados em luta por autodeterminação e rever alianças e organismos internacionais.",
+    "compromissoCitado": "O governo do poder popular atuará visando a construção de uma nova ordem internacional, baseada na cooperação, na autodeterminação dos povos, no internacionalismo proletário, na paz entre as nações, e nas relações mutuamente vantajosos entre todas os países.",
+    "paginaFontePdf": 8
+  },
+  {
+    "id": "chapa-21-saude-publica",
+    "chapaId": "chapa-21",
+    "temaId": "saude-publica",
+    "resumo": "Estatizar o setor privado de saúde, investir 10% do PIB na saúde pública, expandir Fiocruz e Butantan, fortalecer atenção primária e o complexo industrial da saúde.",
+    "compromissoCitado": "Expansão do sistema público de saúde, com a reversão das privatizações e revogação dos contratos de todas as OSs no setor, bem como estatização de todo o setor privado de saúde.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-21-seguranca-juridica",
+    "chapaId": "chapa-21",
+    "temaId": "seguranca-juridica",
+    "resumo": "Reformar estruturalmente o Judiciário, ampliar transparência e controle social e estabelecer mandatos fixos para magistrados dos tribunais regionais e superiores.",
+    "compromissoCitado": "Os membros dos tribunais superiores são nomeados por governantes de plantão, com mandato vitalício, o que consolida os interesses corporativos, antidemocráticos e antipopulares na instituição judiciária.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-21-seguranca-publica",
+    "chapaId": "chapa-21",
+    "temaId": "seguranca-publica",
+    "resumo": "Desmilitarizar e unificar as polícias, substituir a lógica repressiva por uma política de segurança dos direitos e adotar medidas contra encarceramento em massa.",
+    "compromissoCitado": "A segurança pública será desmilitarizada e reorganizada sob o marco civil, com controle social substituindo uma política e um ministério de segurança pública para uma política de segurança dos direitos.",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-21-soberania",
+    "chapaId": "chapa-21",
+    "temaId": "soberania",
+    "resumo": "Reestatizar empresas estratégicas, garantir controle estatal de energia, telecomunicações, finanças e minerais críticos e reorganizar a defesa nacional em torno da soberania popular.",
+    "compromissoCitado": "Reestatização das empresas estratégicas, com a adoção de uma política de massivos investimentos públicos e ensino técnico de qualidade, visando a ampliação dos setores de tecnologia/informática e telecomunicações, com vistas à criação de empregos.",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-21-tecnologia",
+    "chapaId": "chapa-21",
+    "temaId": "tecnologia",
+    "resumo": "Ampliar financiamento público à ciência e tecnologia, fortalecer universidades e estatais, investir no CEITEC e criar Big Techs públicas nacionais.",
+    "compromissoCitado": "Política de reindustrialização e criação de Big Techs públicas e nacionais, articulada com o monopólio estatal e soberano das terras raras e minerais críticos.",
+    "paginaFontePdf": 10
+  },
+  {
+    "id": "chapa-21-trabalho-e-emprego",
+    "chapaId": "chapa-21",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Reduzir jornada para 30 horas sem redução salarial, extinguir escala 6x1, garantir direitos a trabalhadores de aplicativos, recuperar salários e ampliar estabilidade e negociação coletiva.",
+    "compromissoCitado": "Garantia do direito ao trabalho para todos, com redução da jornada de trabalho para 30 horas sem redução de salário e o fim da escala 6x1.",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-27-criancas-e-adolescentes",
+    "chapaId": "chapa-27",
+    "temaId": "criancas-e-adolescentes",
+    "resumo": "Priorizar a primeira infância e a proteção de crianças e adolescentes, com prevenção de abuso e exploração, ambiente digital seguro, busca ativa escolar e apoio às famílias vulneráveis.",
+    "compromissoCitado": "Prevenção de abuso e exploração",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-27-economia-e-sistema-financeiro",
+    "chapaId": "chapa-27",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Melhorar o ambiente econômico por meio de simplificação regulatória, previsibilidade, revisão de gastos e subsídios e planejamento fiscal orientado a resultados.",
+    "compromissoCitado": "Responsabilidade fiscal com foco em resultado",
+    "paginaFontePdf": 5
   },
   {
     "id": "chapa-27-educacao",
     "chapaId": "chapa-27",
     "temaId": "educacao",
-    "resumo": "Fortalecer a educação básica com foco em formação de professores.",
-    "compromissoCitado": "Formar 100 mil novos professores até 2028.",
-    "paginaFontePdf": 45
+    "resumo": "Priorizar alfabetização, recomposição de aprendizagem, valorização docente, educação infantil de qualidade e expansão do ensino técnico conectado às vocações regionais.",
+    "compromissoCitado": "Alfabetização na idade adequada",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-27-empreendedorismo",
+    "chapaId": "chapa-27",
+    "temaId": "empreendedorismo",
+    "resumo": "Apoiar pequenos negócios com crédito produtivo, garantias, capacitação gerencial e digital, compras públicas e simplificação da abertura de empresas.",
+    "compromissoCitado": "Crédito produtivo e garantias",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-27-energia",
+    "chapaId": "chapa-27",
+    "temaId": "energia",
+    "resumo": "Elevar a segurança e a confiabilidade energética como parte da estratégia de competitividade e desenvolvimento econômico.",
+    "compromissoCitado": "Segurança e confiabilidade energética",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-27-esporte",
+    "chapaId": "chapa-27",
+    "temaId": "esporte",
+    "resumo": "Usar esporte e atividade física como instrumentos de saúde pública, com programas comunitários e maior utilização de espaços escolares e públicos.",
+    "compromissoCitado": "Programas comunitários de movimento",
+    "paginaFontePdf": 11
+  },
+  {
+    "id": "chapa-27-estado-digital",
+    "chapaId": "chapa-27",
+    "temaId": "estado-digital",
+    "resumo": "Integrar identidade e serviços digitais, reduzir exigências repetitivas e manter atendimento multicanal para pessoas sem acesso digital.",
+    "compromissoCitado": "Identidade e serviços digitais integrados",
+    "paginaFontePdf": 13
+  },
+  {
+    "id": "chapa-27-gestao-publica-e-fiscal",
+    "chapaId": "chapa-27",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Implantar gestão pública orientada por metas, evidências e resultados, revisar gastos e subsídios, ampliar transparência e reformular programas ineficazes.",
+    "compromissoCitado": "Revisão de gastos e subsídios",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-27-industria-e-comercio",
+    "chapaId": "chapa-27",
+    "temaId": "industria-e-comercio",
+    "resumo": "Criar ambiente favorável à indústria, inovação, economia digital e exportações de maior valor agregado, apoiado por energia confiável e conectividade.",
+    "compromissoCitado": "Ambiente para indústria, inovação e economia digital",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-27-infraestrutura",
+    "chapaId": "chapa-27",
+    "temaId": "infraestrutura",
+    "resumo": "Expandir e melhorar rodovias, ferrovias, hidrovias, portos e cabotagem por meio de concessões, PPPs e planejamento de longo prazo.",
+    "compromissoCitado": "Ferrovias, hidrovias, portos e cabotagem",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-27-mulheres",
+    "chapaId": "chapa-27",
+    "temaId": "mulheres",
+    "resumo": "Estruturar rede nacional de proteção à violência contra mulheres e ampliar autonomia econômica por qualificação, reinserção profissional, crédito e rede de cuidados.",
+    "compromissoCitado": "Integração entre saúde, assistência, segurança e justiça",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-27-pacto-federativo",
+    "chapaId": "chapa-27",
+    "temaId": "pacto-federativo",
+    "resumo": "Adotar federalismo orientado a resultados por meio de pactos com estados e municípios, transferências associadas a indicadores quando cabíveis e consórcios públicos.",
+    "compromissoCitado": "Pactos com estados e municípios",
+    "paginaFontePdf": 14
+  },
+  {
+    "id": "chapa-27-saude-publica",
+    "chapaId": "chapa-27",
+    "temaId": "saude-publica",
+    "resumo": "Fortalecer atenção primária, prevenção, diagnóstico precoce, saúde digital, telemedicina e avaliação científica de novas tecnologias para incorporação ao SUS.",
+    "compromissoCitado": "Telemedicina integrada à rede",
+    "paginaFontePdf": 12
+  },
+  {
+    "id": "chapa-27-seguranca-juridica",
+    "chapaId": "chapa-27",
+    "temaId": "seguranca-juridica",
+    "resumo": "Promover ambiente de negócios previsível por meio de segurança jurídica, simplificação regulatória e avaliação sistemática de normas.",
+    "compromissoCitado": "Segurança jurídica e avaliação de normas",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-27-seguranca-publica",
+    "chapaId": "chapa-27",
+    "temaId": "seguranca-publica",
+    "resumo": "Integrar inteligência de fronteiras, combater narcotráfico e tráfico de armas, sufocar financeiramente facções e orientar segurança urbana por dados e evidências.",
+    "compromissoCitado": "Prioridade a grandes organizações e cadeias de abastecimento",
+    "paginaFontePdf": 9
+  },
+  {
+    "id": "chapa-27-tecnologia",
+    "chapaId": "chapa-27",
+    "temaId": "tecnologia",
+    "resumo": "Ampliar conectividade e incorporar tecnologia e inteligência artificial de modo responsável na educação, na saúde, na segurança e na gestão pública.",
+    "compromissoCitado": "Tecnologia e inteligência artificial com uso responsável",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-27-trabalho-e-emprego",
+    "chapaId": "chapa-27",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Expandir formação técnica, aprendizagem profissional, orientação de carreira e parcerias com setor produtivo para melhorar a transição da educação para o trabalho.",
+    "compromissoCitado": "Orientação de carreira e aprendizagem profissional",
+    "paginaFontePdf": 8
+  },
+   {
+    "id": "chapa-29-agricultura-e-ruralismo",
+    "chapaId": "chapa-29",
+    "temaId": "agricultura-e-ruralismo",
+    "resumo": "Realizar reforma agrária com expropriação do latifúndio, assentamento de famílias sem-terra, demarcação de terras indígenas e destinação da terra à produção de alimentos.",
+    "compromissoCitado": "Ocupar o latifúndio para garantir terra para quem nela more e trabalhe, e a produção de alimentos para toda a classe trabalhadora",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-29-assistencia-social",
+    "chapaId": "chapa-29",
+    "temaId": "assistencia-social",
+    "resumo": "Ampliar proteção de renda com Bolsa Família de pelo menos um salário mínimo, auxílio emergencial e proteção contra despejos e cortes de serviços essenciais para desempregados.",
+    "compromissoCitado": "Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual",
+    "paginaFontePdf": 2
+  },
+  {
+    "id": "chapa-29-cultura",
+    "chapaId": "chapa-29",
+    "temaId": "cultura",
+    "resumo": "Ampliar investimentos públicos na cultura popular e garantir recursos para manifestações como carnaval, samba e outras festas populares.",
+    "compromissoCitado": "Pesados investimentos na cultura popular, patrocínio público das festas populares, sob o controle das organizações populares e dos trabalhadores do setor.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-29-economia-e-sistema-financeiro",
+    "chapaId": "chapa-29",
+    "temaId": "economia-e-sistema-financeiro",
+    "resumo": "Estatizar o sistema financeiro, criar banco estatal único sob controle dos trabalhadores, acabar com a autonomia do Banco Central e cancelar dívidas públicas com bancos e grandes credores.",
+    "compromissoCitado": "Estatização do sistema financeiro; banco estatal único sob o controle dos trabalhadores",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-29-educacao",
+    "chapaId": "chapa-29",
+    "temaId": "educacao",
+    "resumo": "Expandir o financiamento da educação pública, estatizar o ensino pago, extinguir vestibulares, valorizar professores e ampliar o controle da comunidade escolar sobre a gestão.",
+    "compromissoCitado": "Mais verbas para a educação; verbas públicas somente para o ensino público",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-29-energia",
+    "chapaId": "chapa-29",
+    "temaId": "energia",
+    "resumo": "Nacionalizar o petróleo, tornar a Petrobras integralmente estatal, reduzir preços dos combustíveis e destinar a renda petrolífera a políticas públicas.",
+    "compromissoCitado": "Nacionalização do petróleo, Petrobrás 100% estatal, sob o controle dos trabalhadores, com eleição de todos os seus postos de direção pelos trabalhadores",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-29-esporte",
+    "chapaId": "chapa-29",
+    "temaId": "esporte",
+    "resumo": "Garantir recursos públicos para acesso ao esporte, defender o futebol e ampliar participação de torcedores e trabalhadores no controle dos clubes.",
+    "compromissoCitado": "Contra a política da direita de atacar sistematicamente todas as manifestações culturais do povo, como o carnaval, o samba e o futebol, garantir os recursos públicos necessários para o acesso à cultura e ao esporte, pondo fim aos monopólios do setor",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-29-gestao-publica-e-fiscal",
+    "chapaId": "chapa-29",
+    "temaId": "gestao-publica-e-fiscal",
+    "resumo": "Revogar o teto de gastos e a Lei de Responsabilidade Fiscal, ampliar recursos para serviços essenciais e reforçar quadros públicos por concursos.",
+    "compromissoCitado": "Fim do teto de gastos e da Lei de Responsabilidade Fiscal",
+    "paginaFontePdf": 4
+  },
+  {
+    "id": "chapa-29-infraestrutura",
+    "chapaId": "chapa-29",
+    "temaId": "infraestrutura",
+    "resumo": "Utilizar recursos do petróleo para financiar obras de infraestrutura e executar plano nacional de construção de moradias populares.",
+    "compromissoCitado": "Colocar a riqueza do petróleo a serviço das necessidades do povo brasileiro, destinando-a à saúde e educação públicas, construção de moradias populares, obras de infraestrutura etc.",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-29-midia-e-liberdade-de-expressao",
+    "chapaId": "chapa-29",
+    "temaId": "midia-e-liberdade-de-expressao",
+    "resumo": "Defender liberdade irrestrita de expressão, estatizar grandes meios de comunicação, romper monopólios privados de telecomunicações e ampliar acesso gratuito à internet.",
+    "compromissoCitado": "Fim de todo tipo de censura, liberdade irrestrita de expressão, na imprensa, na Internet, nas ruas etc.",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-29-mineracao-e-garimpo",
+    "chapaId": "chapa-29",
+    "temaId": "mineracao-e-garimpo",
+    "resumo": "Nacionalizar e estatizar reservas minerais e criar empresa estatal para controlar a exploração de terras raras sob comando dos trabalhadores.",
+    "compromissoCitado": "Não à entrega das terras raras: criação de empresa estatal que controle sua exploração, comandada pelos trabalhadores, para garantir o uso dessas riquezas em favor do povo.",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-29-mobilidade-urbana",
+    "chapaId": "chapa-29",
+    "temaId": "mobilidade-urbana",
+    "resumo": "Garantir passe livre nos transportes para desempregados e trabalhadores da economia informal.",
+    "compromissoCitado": "Passe livre nos transportes para desempregados e trabalhadores da economia informal.",
+    "paginaFontePdf": 2
+  },
+  {
+    "id": "chapa-29-previdencia",
+    "chapaId": "chapa-29",
+    "temaId": "previdencia",
+    "resumo": "Revogar a reforma da Previdência, reduzir tempo máximo para aposentadoria, recompor perdas de aposentadorias e pensões e colocar fundos previdenciários sob gestão dos trabalhadores.",
+    "compromissoCitado": "Aposentadoria, no máximo, aos 25 anos de trabalho para as mulheres e 30 anos para os homens",
+    "paginaFontePdf": 3
+  },
+  {
+    "id": "chapa-29-reforma-institucional",
+    "chapaId": "chapa-29",
+    "temaId": "reforma-institucional",
+    "resumo": "Reorganizar o Judiciário, extinguir o STF e estabelecer eleição popular de juízes e procuradores com mandatos revogáveis.",
+    "compromissoCitado": "Fim do Supremo Tribunal Federal (STF); eleição de todos os juízes e procuradores pelo voto popular e com mandatos revogáveis.",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-29-relacao-entre-os-poderes",
+    "chapaId": "chapa-29",
+    "temaId": "relacao-entre-os-poderes",
+    "resumo": "Redefinir a estrutura do Judiciário e sua relação com os demais Poderes, eliminando o STF e submetendo magistrados e procuradores a eleição popular.",
+    "compromissoCitado": "Acabar com a ditadura do Judiciário, que atua acima dos demais poderes e pisoteia a vontade popular e a Constituição",
+    "paginaFontePdf": 6
+  },
+  {
+    "id": "chapa-29-relacoes-internacionais",
+    "chapaId": "chapa-29",
+    "temaId": "relacoes-internacionais",
+    "resumo": "Opor-se à influência dos Estados Unidos e da OEA na América Latina e apoiar governos e movimentos que o programa caracteriza como anti-imperialistas.",
+    "compromissoCitado": "Abaixo a ingerência dos EUA e da OEA; fora o imperialismo da América Latina.",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-29-saude-publica",
+    "chapaId": "chapa-29",
+    "temaId": "saude-publica",
+    "resumo": "Ampliar verbas para saúde pública, construir hospitais e postos, retomar o Mais Médicos e expandir formação de profissionais de saúde em universidades públicas.",
+    "compromissoCitado": "Mais verbas para a saúde pública. Não pode haver limite nos gastos para salvar a vida do povo",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-29-seguranca-publica",
+    "chapaId": "chapa-29",
+    "temaId": "seguranca-publica",
+    "resumo": "Dissolver a Polícia Militar e o aparato repressivo e defender mecanismos de autodefesa organizados por trabalhadores urbanos, rurais e comunidades indígenas.",
+    "compromissoCitado": "Dissolução da polícia militar e de todo o aparato repressivo",
+    "paginaFontePdf": 5
+  },
+  {
+    "id": "chapa-29-soberania",
+    "chapaId": "chapa-29",
+    "temaId": "soberania",
+    "resumo": "Rejeitar a internacionalização da Amazônia e garantir controle nacional e popular sobre suas riquezas e recursos estratégicos.",
+    "compromissoCitado": "Não à internacionalização da Amazônia e a toda a política de ingerência do imperialismo na região",
+    "paginaFontePdf": 7
+  },
+  {
+    "id": "chapa-29-trabalho-e-emprego",
+    "chapaId": "chapa-29",
+    "temaId": "trabalho-e-emprego",
+    "resumo": "Recompor perdas salariais, elevar salários, reduzir jornada para 35 horas semanais, restringir demissões e revogar a reforma trabalhista e a terceirização.",
+    "compromissoCitado": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais): trabalhar menos para que todos trabalhem",
+    "paginaFontePdf": 2
   }
 ]
