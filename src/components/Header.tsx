@@ -25,8 +25,7 @@ export default function Header(): JSX.Element{
             {open ? <X size={18} /> : <Menu size={18} />}
           </button>
           <Link to="/" className="flex items-baseline gap-3 no-underline">
-            <div className="text-accent-600 font-bold text-xl" style={{fontFamily:'Roboto Condensed'}}>VoteBem</div>
-            <span className="text-sm text-slate-500 dark:text-slate-400">Comparador 2026</span>
+            <div className="text-accent-600 font-bold text-xl" style={{fontFamily:'Roboto Condensed'}}>VoteBem</div>            
           </Link>
         </div>
 
