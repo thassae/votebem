@@ -58,6 +58,7 @@
   .filter-panel { @apply rounded-[1.5rem] border border-slate-200/80 bg-white/75 p-5 shadow-soft backdrop-blur-sm dark:border-white/10 dark:bg-white/[.055]; }
   .form-select { @apply h-36 w-full rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-[#0b1730] dark:border-white/15 dark:bg-[#0e1730] dark:text-white; }
   .table-shell { @apply overflow-hidden rounded-[1.5rem] border border-slate-200/80 bg-white/70 shadow-soft dark:border-white/10 dark:bg-white/[.04]; }
+  .viewport-wide { @apply relative left-1/2 w-[calc(100vw-1rem)] -translate-x-1/2 sm:w-[calc(100vw-2rem)] lg:w-[calc(100vw-2.5rem)]; }
 }
 
 .link-accent { color: theme('colors.accent.600'); }

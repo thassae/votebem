@@ -63,7 +63,7 @@ export default function Home({chapas, perfis}:{chapas: Chapa[]; perfis: Perfil[]
                   <img
                     src={presidente.fotoUrl}
                     alt={`Foto de ${presidente.nomeCompleto}`}
-                    className="h-28 w-24 shrink-0 rounded-2xl object-cover object-top grayscale-[15%] transition group-hover:grayscale-0"
+                    className="h-28 w-24 shrink-0 rounded-2xl bg-slate-100 object-contain grayscale-[15%] transition group-hover:grayscale-0 dark:bg-white/5"
                   />
                 )}
 

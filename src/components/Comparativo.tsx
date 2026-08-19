@@ -122,7 +122,7 @@ export default function Comparativo({temas, chapas, propostas}:{temas: Tema[]; c
         )}
       </div>
 
-      <div className="table-shell">
+      <div className="table-shell viewport-wide">
         <div
           ref={topScrollRef}
           onScroll={() => syncScroll('top')}

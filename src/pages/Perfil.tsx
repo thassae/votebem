@@ -15,7 +15,7 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
               <img
                 src={presidente.fotoUrl}
                 alt={`Foto de ${presidente.nomeCompleto}`}
-                className="h-52 w-full rounded-2xl object-cover object-top"
+                className="h-auto w-[180px] rounded-2xl object-cover object-top"
               />
             )}
             <p className="mt-4 text-xs font-semibold uppercase tracking-wide text-accent-700 dark:text-accent-300">Presidente</p>
