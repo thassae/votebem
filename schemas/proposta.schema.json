@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["id","chapaId","temaId","resumo","paginaFontePdf"],
+  "properties": {
+    "id": { "type": "string" },
+    "chapaId": { "type": "string" },
+    "temaId": { "type": "string" },
+    "resumo": { "type": "string" },
+    "compromissoCitado": { "type": "string" },
+    "paginaFontePdf": { "type": "integer" }
+  },
+  "additionalProperties": false
+}

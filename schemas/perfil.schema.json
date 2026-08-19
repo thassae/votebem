@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["id","papel","nomeCompleto","fotoUrl","partido","resumoBiografico"],
+  "properties": {
+    "id": { "type": "string" },
+    "papel": { "type": "string", "enum": ["presidente","vice"] },
+    "nomeCompleto": { "type": "string" },
+    "nomeUrna": { "type": "string" },
+    "cpf": { "type": "string" },
+    "dataNascimento": { "type": "string" },
+    "genero": { "type": "string" },
+    "identidadeGenero": { "type": "string" },
+    "orientacaoSexual": { "type": "string" },
+    "corRaca": { "type": "string" },
+    "etniaIndigena": { "type": "string" },
+    "quilombola": { "type": "string" },
+    "estadoCivil": { "type": "string" },
+    "grauInstrucao": { "type": "string" },
+    "ocupacao": { "type": "string" },
+    "nacionalidadeNaturalidade": { "type": "string" },
+    "partidoIsolado": { "type": "string" },
+    "composicaoColigacao": { "type": "string" },
+    "situacaoCandidatura": { "type": "string" },
+    "urlTse": { "type": "string", "format": "uri" },
+    "fotoUrl": { "type": "string" },
+    "partido": { "type": "string" },
+    "resumoBiografico": { "type": "string" },
+    "formacao": { "type": "array", "items": { "type": "string" } },
+    "cargosOcupados": { "type": "array", "items": { "type": "object", "properties": { "cargo": {"type":"string"}, "instituicao": {"type":"string"}, "periodo": {"type":"string"} }, "required": ["cargo","instituicao","periodo"], "additionalProperties": false } }
+  },
+  "additionalProperties": false
+}

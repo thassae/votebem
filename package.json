@@ -1,0 +1,32 @@
+{
+  "name": "comparador-propostas",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Comparador de Propostas de Governo - MVP com React + TypeScript + Tailwind",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate-data": "node scripts/validar-dados.js"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "^0.268.0",
+    "@fontsource/courier-prime": "^4.5.9",
+    "@fontsource/roboto-condensed": "^4.5.9"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.4.7",
+    "@vitejs/plugin-react": "^4.0.0",
+    "react-router-dom": "^6.14.1",
+    "typescript": "5.1.6",
+    "vite": "5.1.7"
+  }
+}

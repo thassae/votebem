@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["id","nome","ordem"],
+  "properties": {
+    "id": { "type": "string" },
+    "nome": { "type": "string" },
+    "ordem": { "type": "integer" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["id","numeroUrna","presidenteId","viceId","partidoPrincipal","coligacao","linkPlanoGovernoPdf"],
+  "properties": {
+    "id": { "type": "string" },
+    "numeroUrna": { "type": "integer" },
+    "presidenteId": { "type": "string" },
+    "viceId": { "type": "string" },
+    "partidoPrincipal": { "type": "string" },
+    "coligacao": { "type": "array", "items": { "type": "string" } },
+    "linkPlanoGovernoPdf": { "type": "string", "format": "uri-reference" },
+    "linkCandidaturaTSE": { "type": "string", "format": "uri" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chapa-27",
+    "numeroUrna": 27,
+    "presidenteId": "perfil-27-presidente",
+    "viceId": "perfil-27-vice",
+    "partidoPrincipal": "DC",
+    "coligacao": ["DC"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002552484_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002552484/2026/BR"
+  },
+  {
+    "id": "chapa-21",
+    "numeroUrna": 21,
+    "presidenteId": "perfil-21-presidente",
+    "viceId": "perfil-21-vice",
+    "partidoPrincipal": "PCB",
+    "coligacao": ["PCB"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002551975_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551975/2026/BR"
+  },
+  {
+    "id": "chapa-70",
+    "numeroUrna": 70,
+    "presidenteId": "perfil-70-presidente",
+    "viceId": "perfil-70-vice",
+    "partidoPrincipal": "AVANTE",
+    "coligacao": ["AVANTE"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002551547_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551547/2026/BR"
+  },
+  {
+    "id": "chapa-22",
+    "numeroUrna": 22,
+    "presidenteId": "perfil-22-presidente",
+    "viceId": "perfil-22-vice",
+    "partidoPrincipal": "PL",
+    "coligacao": ["PL"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002551544_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551544/2026/BR"
+  },
+  {
+    "id": "chapa-16",
+    "numeroUrna": 16,
+    "presidenteId": "perfil-16-presidente",
+    "viceId": "perfil-16-vice",
+    "partidoPrincipal": "PSTU",
+    "coligacao": ["PSTU"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002541457_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002541457/2026/BR"
+  },
+  {
+    "id": "chapa-13",
+    "numeroUrna": 13,
+    "presidenteId": "perfil-13-presidente",
+    "viceId": "perfil-13-vice",
+    "partidoPrincipal": "PT",
+    "coligacao": ["PT", "PCdoB", "PV", "PSOL", "REDE"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002542548_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002542548/2026/BR"
+  },
+  {
+    "id": "chapa-14",
+    "numeroUrna": 14,
+    "presidenteId": "perfil-14-presidente",
+    "viceId": "perfil-14-vice",
+    "partidoPrincipal": "MISSAO",
+    "coligacao": ["MISSAO"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002540694_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002540694/2026/BR"
+  },
+  {
+    "id": "chapa-55",
+    "numeroUrna": 55,
+    "presidenteId": "perfil-55-presidente",
+    "viceId": "perfil-55-vice",
+    "partidoPrincipal": "PSD",
+    "coligacao": ["PSD"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002551932_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551932/2026/BR"
+  },
+  {
+    "id": "chapa-29",
+    "numeroUrna": 29,
+    "presidenteId": "perfil-29-presidente",
+    "viceId": "perfil-29-vice",
+    "partidoPrincipal": "PCO",
+    "coligacao": ["PCO"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002552487_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002552487/2026/BR"
+  },
+  {
+    "id": "chapa-80",
+    "numeroUrna": 80,
+    "presidenteId": "perfil-80-presidente",
+    "viceId": "perfil-80-vice",
+    "partidoPrincipal": "UP",
+    "coligacao": ["UP"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002538811_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002538811/2026/BR"
+  },
+  {
+    "id": "chapa-35",
+    "numeroUrna": 35,
+    "presidenteId": "perfil-35-presidente",
+    "viceId": "perfil-35-vice",
+    "partidoPrincipal": "DEMOCRATA",
+    "coligacao": ["DEMOCRATA"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002548139_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002548139/2026/BR"
+  },
+  {
+    "id": "chapa-30",
+    "numeroUrna": 30,
+    "presidenteId": "perfil-30-presidente",
+    "viceId": "perfil-30-vice",
+    "partidoPrincipal": "NOVO",
+    "coligacao": ["NOVO"],
+    "linkPlanoGovernoPdf": "/data/propostas-governo/2026BR280002539826_01.pdf",
+    "linkCandidaturaTSE": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002539826/2026/BR"
+  }
+]

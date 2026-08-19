@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html { height: 100%; }
+/* Font settings: body uses Courier Prime, titles use Roboto Condensed */
+body { font-family: 'Courier Prime', ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Condensed", "Helvetica Neue", Arial, sans-serif; @apply bg-white text-slate-900 dark:bg-slate-900 dark:text-slate-100; min-height:100vh }
+
+h1,h2,h3 { font-family: 'Roboto Condensed', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial }
+
+.container { @apply mx-auto p-6 overflow-x-auto w-full }
+
+.card { @apply p-4 border rounded shadow-sm bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-700 }
+
+/* Dark mode contrast improvements */
+.dark .card h3, .dark .card p, .dark .card h4 { @apply text-slate-100 }
+.dark td, .dark th { @apply text-slate-100 }
+.dark .container { @apply bg-slate-900 }
+.dark a { @apply text-accent-300 }
+.dark .nav-link { @apply text-slate-200 }
+
+/* Table header dark variant */
+.dark thead { @apply bg-accent-700 text-white }
+
+/* Mobile drawer contrast */
+.dark .mobile-drawer { @apply bg-slate-900 border-slate-700 }
+
+
+/* Accent utilities fallback for older browsers */
+.link-accent { color: theme('colors.accent.600'); }
+
+

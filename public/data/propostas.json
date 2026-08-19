@@ -1,0 +1,18 @@
+[
+  {
+    "id": "chapa-27-seguranca-publica",
+    "chapaId": "chapa-27",
+    "temaId": "seguranca-publica",
+    "resumo": "Reforço do efetivo policial e integração entre forças para redução da criminalidade.",
+    "compromissoCitado": "Aumentar o efetivo em 20% nos primeiros 2 anos.",
+    "paginaFontePdf": 77
+  },
+  {
+    "id": "chapa-27-educacao",
+    "chapaId": "chapa-27",
+    "temaId": "educacao",
+    "resumo": "Fortalecer a educação básica com foco em formação de professores.",
+    "compromissoCitado": "Formar 100 mil novos professores até 2028.",
+    "paginaFontePdf": 45
+  }
+]
