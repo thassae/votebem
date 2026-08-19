@@ -14,11 +14,18 @@ export default function Comparativo({temas, chapas, propostas}:{temas: Tema[]; c
       : temas,
     [temasSelecionados, temas]
   )
+  const chapasOrdenadas = useMemo(
+    () => [...chapas].sort((chapaA, chapaB) =>
+      chapaA.partidoPrincipal.localeCompare(chapaB.partidoPrincipal, 'pt-BR')
+      || chapaA.numeroUrna - chapaB.numeroUrna
+    ),
+    [chapas]
+  )
   const chapasFiltradas = useMemo(
     () => chapasSelecionadas.length > 0
-      ? chapas.filter(chapa => chapasSelecionadas.includes(chapa.id))
-      : chapas,
-    [chapasSelecionadas, chapas]
+      ? chapasOrdenadas.filter(chapa => chapasSelecionadas.includes(chapa.id))
+      : chapasOrdenadas,
+    [chapasSelecionadas, chapasOrdenadas]
   )
 
   useEffect(() => {
@@ -90,7 +97,7 @@ export default function Comparativo({temas, chapas, propostas}:{temas: Tema[]; c
             className="h-36 w-full rounded border border-slate-300 bg-white px-3 py-2 text-slate-900 dark:border-slate-600 dark:bg-slate-900 dark:text-slate-100"
           >
             <option value="">Todas as chapas</option>
-            {chapas.map(chapa => (
+            {chapasOrdenadas.map(chapa => (
               <option key={chapa.id} value={chapa.id}>{chapa.partidoPrincipal} ({chapa.numeroUrna})</option>
             ))}
           </select>
@@ -125,11 +132,11 @@ export default function Comparativo({temas, chapas, propostas}:{temas: Tema[]; c
         <div ref={tableScrollRef} onScroll={() => syncScroll('table')} className="overflow-x-auto">
           <table
             className="min-w-full table-fixed border-collapse"
-            style={{ width: `${224 + (chapasFiltradas.length * 288)}px` }}
+            style={{ width: `${180 + (chapasFiltradas.length * 288)}px` }}
           >
             <thead className="sticky top-0 z-20 bg-accent-600 text-white dark:bg-accent-700">
               <tr>
-                <th className="sticky left-0 z-30 w-56 min-w-56 border bg-accent-600 p-3 text-left dark:bg-accent-700">Tema</th>
+                <th className="sticky left-0 z-30 w-[180px] min-w-[180px] break-all border bg-accent-600 p-3 text-left dark:bg-accent-700">Tema</th>
                 {chapasFiltradas.map(chapa => (
                   <th key={chapa.id} className="min-w-72 border p-3 text-left">
                     <a href={`/chapa/${chapa.id}`}>{chapa.partidoPrincipal} <span className="text-sm text-accent-100">({chapa.numeroUrna})</span></a>
@@ -140,7 +147,7 @@ export default function Comparativo({temas, chapas, propostas}:{temas: Tema[]; c
             <tbody>
               {temasFiltrados.map(tema => (
                 <tr key={tema.id} className="group align-top even:bg-slate-50 dark:even:bg-slate-900">
-                  <th className="sticky left-0 z-10 w-56 min-w-56 border bg-white p-3 text-left align-top group-even:bg-slate-50 dark:bg-slate-900 dark:group-even:bg-slate-900">
+                  <th className="sticky left-0 z-10 w-[180px] min-w-[180px] break-word border bg-white p-3 text-left align-top group-even:bg-slate-50 dark:bg-slate-900 dark:group-even:bg-slate-900">
                     {tema.nome}
                   </th>
                   {chapasFiltradas.map(chapa => {

@@ -1,13 +1,21 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import type { Chapa, Perfil } from '../types'
 
 export default function Home({chapas, perfis}:{chapas: Chapa[]; perfis: Perfil[]}){
+  const chapasOrdenadas = useMemo(
+    () => [...chapas].sort((chapaA, chapaB) =>
+      chapaA.partidoPrincipal.localeCompare(chapaB.partidoPrincipal, 'pt-BR')
+      || chapaA.numeroUrna - chapaB.numeroUrna
+    ),
+    [chapas]
+  )
+
   return (
     <section>
       <h2 className="text-xl font-semibold mb-4 mt-4">Chapas</h2>
       <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-        {chapas.map(c => {
+        {chapasOrdenadas.map(c => {
           const presidente = perfis.find(perfil => perfil.id === c.presidenteId)
           const vice = perfis.find(perfil => perfil.id === c.viceId)
 
