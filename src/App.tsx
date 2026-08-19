@@ -28,11 +28,11 @@ export default function App(){
 
   return (
     <BrowserRouter>
-      <div className="container flex min-h-screen flex-col">
+      <div className="app-shell flex min-h-screen flex-col">
         <Header />
-        <div className="flex-1">
-          {loading && <p>Carregando dados…</p>}
-          {error && <p className="text-red-600">Erro: {error}</p>}
+        <div className="page-container flex-1 py-8 sm:py-12">
+          {loading && <p className="status-message">Carregando dados…</p>}
+          {error && <p className="status-message text-red-600">Erro: {error}</p>}
           {!loading && !error && (
             <Routes>
               <Route path="/" element={<Home chapas={chapas} perfis={perfis} />} />

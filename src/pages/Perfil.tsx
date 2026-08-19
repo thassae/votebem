@@ -5,16 +5,17 @@ import { Link } from 'react-router-dom'
 export default function Perfil({chapa, presidente, vice, temas, propostas}:{chapa:Chapa; presidente:Perfil|undefined; vice:Perfil|undefined; temas:Tema[]; propostas:Proposta[]}){
   return (
     <div>
-      <h2 className="mt-4 text-xl font-semibold">Perfil da Chapa</h2>
+      <p className="section-kicker">Chapa {chapa.numeroUrna}</p>
+      <h1 className="section-title">Perfil da chapa</h1>
 
       <div className="mt-4 grid grid-cols-1 items-start gap-6 md:grid-cols-[minmax(16rem,1fr)_minmax(0,2fr)]">
-        <aside className="card md:sticky md:top-4" aria-label="Informações da chapa">
+        <aside className="card md:sticky md:top-24" aria-label="Informações da chapa">
           <div>
             {presidente?.fotoUrl && (
               <img
                 src={presidente.fotoUrl}
                 alt={`Foto de ${presidente.nomeCompleto}`}
-                className="h-auto w-full max-w-[180px] rounded"
+                className="h-52 w-full rounded-2xl object-cover object-top"
               />
             )}
             <p className="mt-4 text-xs font-semibold uppercase tracking-wide text-accent-700 dark:text-accent-300">Presidente</p>
@@ -72,7 +73,7 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
             {propostas.map(p=>{
               const tema = temas.find(t=>t.id===p.temaId)
               return (
-                <article key={p.id} className="p-3 border rounded bg-white dark:bg-slate-900">
+                <article key={p.id} className="card p-5">
                   <h4 className="font-medium">{tema?.nome}</h4>
                   <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">{p.resumo}</p>
                   {p.compromissoCitado && (
@@ -87,7 +88,7 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
           </div>
 
             <div className="mt-6">
-              <Link to="/comparativo" className="underline">Ver tabela comparativa</Link>
+              <Link to="/comparativo" className="button-primary">Ver tabela comparativa</Link>
             </div>
           </section>
         </main>

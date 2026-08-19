@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import { Sun, Moon, Menu, X, Search } from 'lucide-react'
+import { Sun, Moon, Menu, X } from 'lucide-react'
 
 export default function Header(): JSX.Element{
   const [dark, setDark] = useState<boolean>(()=>{
@@ -15,17 +15,17 @@ export default function Header(): JSX.Element{
     try{ localStorage.setItem('vb-theme', dark?'dark':'light') }catch(e){}
   },[dark])
 
-  const navLinkClass = (isActive:boolean) => `px-3 py-2 rounded ${isActive? 'text-accent-600 bg-accent-50 dark:bg-accent-800':''}`
+  const navLinkClass = (isActive:boolean) => `nav-link ${isActive ? 'nav-link-active' : ''}`
 
   return (
-    <header className="bg-white dark:bg-slate-900 border-b dark:border-slate-800">
-      <div className="container flex items-center justify-between gap-4 py-3">
+    <header className="site-header">
+      <div className="page-container flex h-[72px] items-center justify-between gap-4">
         <div className="flex items-center gap-4">
-          <button className="md:hidden p-2 rounded border dark:border-slate-700" onClick={()=>setOpen(o=>!o)} aria-label="Toggle menu">
+          <button className="icon-button md:hidden" onClick={()=>setOpen(o=>!o)} aria-label={open ? 'Fechar menu' : 'Abrir menu'}>
             {open ? <X size={18} /> : <Menu size={18} />}
           </button>
-          <Link to="/" className="flex items-baseline gap-3 no-underline">
-            <div className="text-accent-600 font-bold text-xl" style={{fontFamily:'Roboto Condensed'}}>VoteBem</div>            
+          <Link to="/" className="brand" aria-label="VoteBem — página inicial">
+            <span className="font-extrabold">Vote</span><span className="font-medium">Bem</span>
           </Link>
         </div>
 
@@ -35,7 +35,7 @@ export default function Header(): JSX.Element{
         </nav>
 
         <div className="flex items-center gap-3">          
-          <button onClick={()=>setDark(d=>!d)} aria-label="Toggle theme" className="p-2 rounded border dark:border-slate-700 bg-accent-600 text-white hover:bg-accent-500">
+          <button onClick={()=>setDark(d=>!d)} aria-label={dark ? 'Ativar tema claro' : 'Ativar tema escuro'} className="icon-button">
             {dark ? <Sun size={16} /> : <Moon size={16} />}
           </button>
         </div>
@@ -43,11 +43,11 @@ export default function Header(): JSX.Element{
 
       {/* Mobile menu */}
       {open && (
-        <div className="md:hidden px-4 pb-4">
-          <nav className="flex flex-col gap-2 bg-white dark:bg-slate-900 p-3 rounded shadow-sm border dark:border-slate-700">
+        <div className="page-container pb-4 md:hidden">
+          <nav className="mobile-drawer flex flex-col gap-2 rounded-2xl border p-3 shadow-soft">
             <NavLink to="/" onClick={()=>setOpen(false)} className={({isActive})=>navLinkClass(isActive)}>Chapas</NavLink>
             <NavLink to="/comparativo" onClick={()=>setOpen(false)} className={({isActive})=>navLinkClass(isActive)}>Comparativo</NavLink>
-            <button onClick={()=>{ setDark(d=>!d); setOpen(false) }} className="mt-2 flex items-center gap-2 px-3 py-2 bg-accent-600 text-white rounded">{dark ? <Sun size={16}/> : <Moon size={16}/> } <span className="ml-2">Alternar tema</span></button>
+            <button onClick={()=>{ setDark(d=>!d); setOpen(false) }} className="button-primary mt-2 justify-center">{dark ? <Sun size={16}/> : <Moon size={16}/> } <span>Alternar tema</span></button>
           </nav>
         </div>
       )}
