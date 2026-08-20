@@ -81,7 +81,17 @@ export default function Perfil({chapa, presidente, vice, temas, propostas}:{chap
                       “{p.compromissoCitado}”
                     </blockquote>
                   )}
-                  <p className="mt-2 text-xs text-slate-500">Página {p.paginaFontePdf} do plano de governo</p>
+                  <p className="mt-2 text-xs text-slate-500 dark:text-slate-400">
+                    <a
+                      href={`${chapa.linkPlanoGovernoPdf}#page=${p.paginaFontePdf}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="underline decoration-current underline-offset-2 hover:text-accent-700 dark:hover:text-accent-300"
+                      aria-label={`Fonte: página ${p.paginaFontePdf} do plano de governo (abre em nova aba)`}
+                    >
+                      Fonte: página {p.paginaFontePdf} do plano de governo
+                    </a>
+                  </p>
                 </article>
               )
             })}
