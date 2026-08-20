@@ -30,7 +30,7 @@ export default function Header(): JSX.Element{
         </div>
 
         <nav className="hidden md:flex items-center gap-2">
-          <NavLink to="/" className={({isActive})=>navLinkClass(isActive)}>Chapas</NavLink>
+          <NavLink to="/chapas" className={({isActive})=>navLinkClass(isActive)}>Chapas</NavLink>
           <NavLink to="/comparativo" className={({isActive})=>navLinkClass(isActive)}>Comparativo</NavLink>
         </nav>
 
@@ -45,7 +45,7 @@ export default function Header(): JSX.Element{
       {open && (
         <div className="page-container pb-4 md:hidden">
           <nav className="mobile-drawer flex flex-col gap-2 rounded-2xl border p-3 shadow-soft">
-            <NavLink to="/" onClick={()=>setOpen(false)} className={({isActive})=>navLinkClass(isActive)}>Chapas</NavLink>
+            <NavLink to="/chapas" onClick={()=>setOpen(false)} className={({isActive})=>navLinkClass(isActive)}>Chapas</NavLink>
             <NavLink to="/comparativo" onClick={()=>setOpen(false)} className={({isActive})=>navLinkClass(isActive)}>Comparativo</NavLink>
             <button onClick={()=>{ setDark(d=>!d); setOpen(false) }} className="button-primary mt-2 justify-center">{dark ? <Sun size={16}/> : <Moon size={16}/> } <span>Alternar tema</span></button>
           </nav>

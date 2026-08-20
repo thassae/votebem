@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { ArrowRight, Scale } from 'lucide-react'
+import { ArrowRight, Columns, FileSearch, ListChecks } from 'lucide-react'
 import type { Chapa, Perfil } from '../types'
 
 export default function Home({chapas, perfis}:{chapas: Chapa[]; perfis: Perfil[]}){
@@ -18,28 +18,45 @@ export default function Home({chapas, perfis}:{chapas: Chapa[]; perfis: Perfil[]
         <div className="max-w-3xl">
           <div className="eyebrow"><span className="eyebrow-dot" /> Eleições 2026</div>
           <h1 className="hero-title">Compare antes<br />de decidir<br className="sm:hidden" /> seu voto<span className="text-accent-500">.</span></h1>
-          <p className="hero-copy">Candidatos e propostas lado a lado, com informação clara para uma escolha consciente.</p>
+          <p className="hero-copy">Escolha o que importa para você e compare propostas lado a lado, sempre com acesso à fonte original.</p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link to="/comparativo" className="button-primary">Comparar propostas <ArrowRight size={18} /></Link>
-            <a href="#chapas" className="button-secondary">Conhecer chapas</a>
+            <Link to="/comparativo#prioridades" className="button-primary">Montar minha comparação <ArrowRight size={18} /></Link>
+            <Link to="/comparativo#chapas" className="button-secondary">Comparar duas chapas</Link>
           </div>
         </div>
 
-        <div className="hero-card" aria-hidden="true">
-          <div className="flex items-center justify-between">
-            <span className="hero-card-label text-accent-600 dark:text-accent-300">Candidato A</span>
-            <Scale className="text-accent-500" size={24} />
-            <span className="hero-card-label text-amber-600 dark:text-amber-300">Candidato B</span>
-          </div>
-          {['Saúde', 'Educação', 'Economia'].map((tema, index) => (
-            <div key={tema} className="mt-7">
-              <p className="mb-2 text-center text-sm font-semibold">{tema}</p>
-              <div className="grid grid-cols-2 gap-3">
-                <div className="meter"><span className="meter-accent" style={{width: `${[82, 57, 69][index]}%`}} /></div>
-                <div className="meter"><span className="meter-amber" style={{width: `${[45, 79, 62][index]}%`}} /></div>
-              </div>
-            </div>
-          ))}
+        <div className="hero-card">
+          <p className="hero-card-label text-accent-700 dark:text-accent-300">Sua matriz de comparação</p>
+          <ol className="mt-6 space-y-5">
+            <li className="flex gap-4"><ListChecks className="shrink-0 text-accent-500" aria-hidden="true" /><div><strong>1. Escolha prioridades</strong><p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Selecione os temas mais relevantes para sua decisão.</p></div></li>
+            <li className="flex gap-4"><Columns className="shrink-0 text-accent-500" aria-hidden="true" /><div><strong>2. Compare propostas</strong><p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Veja de duas a cinco chapas por vez, sem ranking.</p></div></li>
+            <li className="flex gap-4"><FileSearch className="shrink-0 text-accent-500" aria-hidden="true" /><div><strong>3. Consulte as fontes</strong><p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Abra o plano oficial diretamente na página citada.</p></div></li>
+          </ol>
+        </div>
+      </section>
+
+      <section className="border-t border-slate-200/80 py-12 dark:border-white/10" aria-labelledby="titulo-caminho">
+        <p className="section-kicker">Escolha seu caminho</p>
+        <h2 id="titulo-caminho" className="section-title">Por onde você quer começar?</h2>
+        <div className="mt-6 grid gap-4 md:grid-cols-3">
+          <Link to="/comparativo#prioridades" className="candidate-card group">
+            <ListChecks className="text-accent-600 dark:text-accent-300" aria-hidden="true" />
+            <h3 className="mt-4 text-lg font-bold">Estou em dúvida</h3>
+            <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">Comece pelos temas que importam para você.</p>
+            <span className="card-link">Escolher prioridades <ArrowRight size={16} /></span>
+          </Link>
+          <Link to="/comparativo#chapas" className="candidate-card group">
+            <Columns className="text-accent-600 dark:text-accent-300" aria-hidden="true" />
+            <h3 className="mt-4 text-lg font-bold">Já tenho nomes em mente</h3>
+            <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">Selecione duas chapas e veja as diferenças.</p>
+            <span className="card-link">Comparar chapas <ArrowRight size={16} /></span>
+          </Link>
+          <Link to="/comparativo#temas" className="candidate-card group">
+            <FileSearch className="text-accent-600 dark:text-accent-300" aria-hidden="true" />
+            <h3 className="mt-4 text-lg font-bold">Quero entender um tema</h3>
+            <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">Explore como diferentes planos tratam uma prioridade.</p>
+            <span className="card-link">Explorar temas <ArrowRight size={16} /></span>
+          </Link>
         </div>
       </section>
 

@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react'
-import { BrowserRouter, Routes, Route, Navigate, useParams } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useParams } from 'react-router-dom'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Comparativo from './components/Comparativo'
 import Home from './components/Home'
 import Perfil from './pages/Perfil'
+import NotFound from './pages/NotFound'
 import { loadAll } from './services/dataService'
 import type { Tema, Chapa, Perfil as PerfilT, Proposta } from './types'
 
@@ -36,8 +37,10 @@ export default function App(){
           {!loading && !error && (
             <Routes>
               <Route path="/" element={<Home chapas={chapas} perfis={perfis} />} />
+              <Route path="/chapas" element={<Home chapas={chapas} perfis={perfis} />} />
               <Route path="/comparativo" element={<Comparativo temas={temas} chapas={chapas} propostas={propostas} />} />
               <Route path="/chapa/:id" element={<PerfilWrapper chapas={chapas} perfis={perfis} temas={temas} propostas={propostas} />} />
+              <Route path="*" element={<NotFound />} />
             </Routes>
           )}
         </div>
@@ -50,7 +53,7 @@ export default function App(){
 function PerfilWrapper({chapas, perfis, temas, propostas}:{chapas:Chapa[]; perfis:PerfilT[]; temas:Tema[]; propostas:Proposta[]}){
   const { id } = useParams<{id:string}>()
   const chapa = chapas.find(c=>c.id===id)
-  if(!chapa) return <Navigate to="/" replace />
+  if(!chapa) return <NotFound />
   const presidente = perfis.find(p=>p.id===chapa?.presidenteId)
   const vice = perfis.find(p=>p.id===chapa?.viceId)
   const propostasDaChapa = propostas.filter(p=>p.chapaId===chapa?.id)
